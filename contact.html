@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="format-detection" content="telephone=no"/>
+    <meta name="google-site-verification" content="jU10rjNyf42RwJtqWsdPgcBFczML5wnBmEMPH0MwJbM" />
+    <meta http-equiv="Cache-control" content="public">
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+    <title> Contacts</title>
+
+    <!-- Bootstrap -->
+	<link href="css/font-awesome.min.css" rel="stylesheet">
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <!-- Links -->
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/search.css">
+    <link rel="stylesheet" href="css/google-map.css">
+    <link rel="stylesheet" href="css/contact-form.css">
+    <link rel="stylesheet" href="css/Common.css">
+
+    <!--JS-->
+    <script src="js/Core/jquery.js"></script>
+    <script src="js/Core/jquery-migrate-1.2.1.min.js"></script>
+    <script src="js/ViewsJS/Common.js"></script>
+
+    <!--[if lt IE 9]>
+    <div style=' clear: both; text-align:center; position: relative;'>
+        <a href="http://windows.microsoft.com/en-US/internet-explorer/..">
+            <img src="images/ie8-panel/warning_bar_0000_us.jpg" border="0" height="42" width="820"
+                 alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today."/>
+        </a>
+    </div>
+    <script src="js/Core/html5shiv.js"></script>
+    <![endif]-->
+    <script src='js/Core/device.min.js'></script>
+</head>
+
+<body>
+<div class="page">
+    <!--========================================================
+                              HEADER
+    =========================================================-->
+    <header class="clearfix header__mod">
+        <div id="stuck_container" class="stuck_container">
+            
+            <!--<div class="srch"><a class="search-form_toggle" href="#"></a>
+
+                <form class="search-form" action="search.php" method="GET" accept-charset="utf-8">
+                    <label class="search-form_label">
+                        <input class="search-form_input" type="text" name="s" autocomplete="off"
+                               placeholder="Search.."/>
+                        <span class="search-form_liveout"></span>
+                    </label>
+                    <button class="search-form_submit fa-search" type="submit"></button>
+                </form>
+            </div>-->
+        </div>
+    </header>
+
+    <!--========================================================
+                              CONTENT
+    =========================================================-->
+
+    <main>
+
+ <section class="well3 bg-primary">
+         <div class="container">
+             <h2 class="">Contact Information</h2>
+                 <ul class="row contact-list3">
+                     <!--<li class="col-md-12 col-sm-12 col-xs-12 wow fadeIn" data-wow-duration="2s" data-wow-delay="0.2s">
+                         <address>sri Vaikhanasa Ashramam, Plot# 205, P&T Colony, Kakatiya Hospital road, Medipally, Uppal, Hyderabad.</address>
+                         <dl>                             
+                             <dt>Telephone:</dt>
+                             <dd>
+                                 <a href="callto:#"> +91 99599 33822</a>
+                             </dd>                             
+                         </dl>
+                         <dl>
+                             <dt>E-mail:</dt>
+                             <dd>
+                                 <a href="mailto:#">seshu.manavaikhanasam@gmail.com</a>
+                             </dd>
+                         </dl>
+                     </li>-->
+                      <li class="col-md-12 col-sm-12 col-xs-12 wow fadeIn" data-wow-duration="2s" data-wow-delay="0.2s">
+                        <address>R L V Seshu Kumar, <br/>S/O R V Satyanarayana Charyulu, <br/> Plot# 32, HNO. 8-60, Mytripuram, <br/> Vaishalinagar(po), Karmanghat, Hyderabad.</address>
+                         <dl>                             
+                             <dt>Telephone:</dt>
+                             <dd style="float:left;">
+                                 <a href="callto:#"> +91 99599 33822</a>
+                             </dd>                             
+                         </dl>
+                         <dl>
+                             <dt>E-mail:</dt>
+                             <dd>
+                                 <a href="mailto:#">seshu.manavaikhanasam@gmail.com</a>
+                             </dd>
+                         </dl>
+                     </li>                     
+                 </ul>
+             </div>
+     </section>
+
+        <!--<div class="map">
+            <div id="google-map" class="map_model" data-zoom="13"></div>
+            <ul class="map_locations">
+                <li data-x="-73.9874068" data-y="40.643180">
+                    <p> 9870 St Vincent Place, Glasgow, DC 45 Fr 45. <span>800 2345-6789</span></p>
+                </li>
+            </ul>
+        </div>-->
+
+         <section class="well9 bg-alt">
+                <div class="container">
+                    <h2 class="ttu">FeedBack</h2>
+                        <form id="contact-form" class='contact-form' action="contact.php" method="post">
+                            <div class="contact-form-loader"></div>
+                            <fieldset>
+                                <label class="name">
+                                    <input type="text" name="name" placeholder="Name" value="" data-constraints="@Required @JustLetters"/>
+                                    <span class="empty-message">*This field is required.</span>
+                                    <span class="error-message">*This is not a valid name.</span>
+                                </label>
+                                <label class="phone">
+                                    <input type="text" name="phone" placeholder="Phone" value="" data-constraints="@JustNumbers"/>
+                                    <span class="empty-message">*This field is required.</span>
+                                    <span class="error-message">*This is not a valid phone.</span>
+                                </label>
+                                <label class="email">
+                                    <input type="text" name="email" placeholder="Email" value="" data-constraints="@Required @Email"/>
+                                    <span class="empty-message">*This field is required.</span>
+                                    <span class="error-message">*This is not a valid email.</span>
+                                </label>
+                                <label class="message">
+                                    <textarea name="message" placeholder="Message" data-constraints='@Required @Length(min=20,max=999999)'></textarea>
+                                    <span class="empty-message">*This field is required.</span>
+                                    <span class="error-message">*The message is too short.</span>
+                                </label>
+                                <label>
+                                    Enter Code:
+                                    <img type="image" src="captchaImage.php" alt="Captcha Image"/>
+                                    <input type="text" name="vercode" style="width:132px" id="vercode" />
+                                    <span class="empty-message">*This field is required.</span>
+                                </label>
+                                <!--<label class="recaptcha"> <span class="empty-message">*This field is required.</span>
+                                </label>-->
+                                <div class="btn-wr">
+                                    <a class="btn btn-default btn-sm" href="#" data-type="submit">send</a>
+                                </div>
+                            </fieldset>
+                            <div class="modal fade response-message">
+                                <div class="modal-dialog">
+                                    <div class="modal-content">
+                                        <div class="modal-header">
+                                            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                                            <h4 class="modal-title">Modal title</h4>
+                                        </div>
+                                        <div class="modal-body">
+                                            You message has been sent! We will be in touch soon.
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+            </section>
+    </main>
+    <!--========================================================
+                            FOOTER
+  =========================================================-->
+    <footer class="center767">
+        
+    </footer>
+</div>
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="js/Core/bootstrap.min.js"></script>
+<script src="js/Core/tm-scripts.js"></script>
+<script src="js/Core/TMForm.js"></script>
+<!-- </script> -->
+
+<script type="text/javascript">
+    $('#stuck_container').append(menuHeader);
+    $('#liContacts').addClass('active');
+    $('footer').append(menuFooter);
+</script>
+</body>
+</html>

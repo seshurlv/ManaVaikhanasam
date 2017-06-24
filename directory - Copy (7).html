@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="format-detection" content="telephone=no"/>
+    <meta name="google-site-verification" content="jU10rjNyf42RwJtqWsdPgcBFczML5wnBmEMPH0MwJbM" />
+    <meta http-equiv="Cache-control" content="public">
+    <link rel="icon" href="images/favicon.ico" type="image/x-icon">
+    <title>Vaikhanasa Directory</title>
+
+    <!-- Bootstrap -->
+	<link href="css/font-awesome.min.css" rel="stylesheet">
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <!-- Links -->
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/search.css">
+    <link rel="stylesheet" href="css/jquery.fancybox.css">
+    <link rel="stylesheet" href="css/Common.css">
+
+    <!--JS-->
+    <script src="js/Core/jquery.js"></script>
+    <script src="js/Core/jquery-migrate-1.2.1.min.js"></script>
+    <script src="js/ViewsJS/Common.js"></script>
+
+    <!--[if lt IE 9]>
+    <div style=' clear: both; text-align:center; position: relative;'>
+        <a href="http://windows.microsoft.com/en-US/internet-explorer/..">
+            <img src="images/ie8-panel/warning_bar_0000_us.jpg" border="0" height="42" width="820"
+                 alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today."/>
+        </a>
+    </div>
+    <script src="js/Core/html5shiv.js"></script>
+    <![endif]-->
+    <script src='js/Core/device.min.js'></script>
+    <script src="js/ViewsJS/Common.js"></script>
+    <script src="js/Core/angular.js"></script>
+    <script src="js/Core/ng-table.min.js"></script>
+    <script src="js/ViewsJS/Vaikhanasa_Directory.js"></script>
+</head>
+
+<body ng-app="ngTableTutorial">
+<div class="page">
+    <!--========================================================
+                              HEADER
+    =========================================================-->
+    <header class="clearfix header__mod">
+        <div id="stuck_container" class="stuck_container">
+        </div>
+    </header>
+
+    <!--========================================================
+                              CONTENT
+    =========================================================-->
+
+    <main>
+
+        <section class="well7 bg-primary">
+            <div class="container containerWidth95">
+                <div class="row">
+                    <div class="col-md-12 col-sm-12 col-xs-12">
+                        <h2 style="text-align: center;">
+                            <img class="pageLogoSize" border="0" src="images/mysite/common/phone_book_edit.png"> Vaikhanasa Directory <img class="pageLogoSize" border="0" src="images/mysite/common/phone_book_edit.png">
+                        </h2>
+                        <br/>
+                        <p>
+                            Vaikhanasa Directory is the service to make information available regarding our vaikhanasas residing at different parts of this world. Please let us know the names of the persons not listed in this table through the feedback form available in contact page.
+
+                            We will make the best possible effort to include the names as early as posssible. 
+                        </p>
+                        <p>
+                            Please send the below details to get added into this list:
+                            <b>
+                                Name (full name with surname), Gotram, Fathers Name, Native place, Phone, Email, Address, Profession, photo  
+                            </b>
+                            via email provided below -- seshu.manavaikhanasam@gmail.com
+                        </p>
+                        <br/>
+                        <div ng-controller="tableController">
+                            <table ng-table="usersTable" show-filter="true" class="table table-striped table-hover table-bordered table-responsive">
+                               <tr ng-repeat="user in data" ng-click="userDetails(user)">
+                                   <td data-title="'SNO'" sortable="'Sno'" ng-bind="user.Sno"></td>
+                                   <td class='tdImageColumn'><img class='contactImage' src='images\\mysite\\common\\personImage.png'/></td>
+                                   <td data-title="'NAME'" filter="{ 'Name': 'text' }" ng-bind="user.Name"></td>
+                                   <td data-title="'FATHER NAME'" filter="{ 'Father': 'text' }" ng-bind="user.Father"></td>
+                                   <td data-title="'GOTRAM'" filter="{ 'Gotram': 'text' }" ng-bind="user.Gotram"></td>    
+                                   <td data-title="'LANDLINE'" filter="{ 'LandLine': 'text' }" ng-bind="user.LandLine"></td>
+                                   <td data-title="'MOBILE'" filter="{ 'Mobile': 'text' }" ng-bind="user.Mobile"></td>
+                                   <td data-title="'EMAIL'" filter="{ 'Email': 'text' }" ng-bind="user.Email"></td>                 <td data-title="'NATIVE'" filter="{ 'Native': 'text' }" ng-bind="user.Native"></td>    
+                                   <td data-title="'ADDRESS'" filter="{ 'Address': 'text' }" ng-bind="user.Address"></td>
+                                   <td data-title="'PROFESSION'" filter="{ 'Professsion': 'text' }" ng-bind="user.Professsion"></td>
+                               </tr>
+                            </table>
+                            <div id="one" class='animate-hide'  ng-hide="myValue"> 
+                                this is just a sample div
+                            </div>
+                        </div> 
+                    </div>
+                </div>
+            </div>
+        </section>                
+    </main>
+
+
+    <!--========================================================
+                            FOOTER
+  =========================================================-->
+    <footer class="center767">
+        
+    </footer>
+</div>
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<!-- Include all compiled plugins (below), or include individual files as needed -->
+<script src="js/Core/bootstrap.min.js"></script>
+<script src="js/Core/tm-scripts.js"></script>
+<!-- </script> -->
+
+<script type="text/javascript">
+    $('#stuck_container').append(menuHeader);
+    $('#liServices').addClass('active');
+    $('footer').append(menuFooter);
+</script>
+</body>
+</html>
