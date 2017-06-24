@@ -1,0 +1,104 @@
+.ng-table-pager{
+	/*display: none;*/
+}
+
+.downloadLink{
+	color: blue;
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.marqueImage{	
+    width: 40px;
+    height: 40px;
+}
+
+.marqueBackColor{
+	background-color: #323F47 !important;
+    font-weight: bold;
+    color: white;
+    font-size: large;
+}
+
+.pageLogoSize{
+    width: 50px;
+    height: 50px;
+}
+
+th{
+    text-align: center;
+}
+
+.textCenter{
+    text-align: center;   
+}
+
+.paddingBottom20{
+    padding-bottom: 20px;
+}
+
+.GetInTouchImage{
+    border-radius: 50%;
+    width: 100px;
+    float: left;
+}
+
+.GetInTouchImage:hover{    
+    transform:scale(2,2);
+    transform-origin:0 0;
+}
+
+.paddingLeft20{
+    padding-left: 20px;
+}
+
+.contactImage{
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    float: left;
+}   
+
+.contactImage:hover{    
+    transform:scale(2,2);
+    transform-origin:0 0;
+}
+
+.dataColumnStyle{
+    line-height: 60px !important;
+    font-weight: bold;
+} 
+
+.tdImageColumn{
+    width: 80px;
+}
+
+.containerWidth95{
+    width: 95%;
+}
+
+.tdDownloadImageColumn
+{
+    width: 150px;    
+}
+
+.cursorPointer{
+    cursor: pointer;
+}
+
+.brandImageStyle{
+    height: 100px; 
+    width: 80px;
+}
+
+.homePageSectionPadding{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.homePageBottomBorder{
+    border-bottom: black;
+    border-bottom-width: thin;
+    border-bottom-style: double;
+}
