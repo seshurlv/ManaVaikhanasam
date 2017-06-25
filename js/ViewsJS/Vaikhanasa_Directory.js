@@ -1977,13 +1977,91 @@ var directoryList = [{
 ,{
 "Sno":153,
 "Name":"Kallagunta Lakshmi Rajendra Prasad",
-"Father":"",
-"Gotram":"",
+"Father":"Late. K.Satyanarayana Charyulu",
+"Gotram":"Goutamasa",
 "LandLine":"",
 "Mobile":9866435959,
 "Email":"klrprasad7@gmail.com",
 "Native":"",
-"Address":"",
+"Address":"H.NO. 5-1-65, Plot No.79, Veeranjaneya Colony, Sahebnagar,Vanasthalipuram, Hyderabad-500070",
+"Professsion":"",
+"UserImage":""
+}
+,{
+"Sno":154,
+"Name":"Kallagunta Sricharan Vachaspathi",
+"Father":"K.Lakshmi Rajendra Prasad",
+"Gotram":"Goutamasa",
+"LandLine":"",
+"Mobile":9866015836,
+"Email":"sricharan87@gmail.com",
+"Native":"",
+"Address":"H.NO. 5-1-65, Plot No.79, Veeranjaneya Colony, Sahebnagar,Vanasthalipuram, Hyderabad-500070",
+"Professsion":"",
+"UserImage":""
+}
+,{
+"Sno":155,
+"Name":"Vedantam BalaramaKrishnamancharyulu",
+"Father":"Seetharamacharyulu Vedantam",
+"Gotram":"Aatreyasa",
+"LandLine":"",
+"Mobile":9347081915,
+"Email":"balaram.vedantam@gmail.com",
+"Native":"Kovvali",
+"Address":"#139, Blcok-C, Majestic Mansions, Begumpet, Hyderabad-500016",
+"Professsion":"Rtd.Pharmacy Supervisor",
+"UserImage":""
+}
+,{
+"Sno":156,
+"Name":"Vedantam Rajya Lakshmi",
+"Father":"Sheshavataaram SriBhashyam",
+"Gotram":"Aatreyasa",
+"LandLine":"",
+"Mobile":9347081915,
+"Email":"balaram.vedantam@gmail.com",
+"Native":"Piduguraalla",
+"Address":"#139, Blcok-C, Majestic Mansions, Begumpet, Hyderabad-500016",
+"Professsion":"",
+"UserImage":""
+}
+,{
+"Sno":157,
+"Name":"vedantam Vikhanasa Kiran",
+"Father":"BalaramaKrishnamancharyulu Vedantam",
+"Gotram":"Aatreyasa",
+"LandLine":"",
+"Mobile":9966552349,
+"Email":"v.v.kiron@gmial.com",
+"Native":"Polavaram",
+"Address":"#139, Blcok-C, Majestic Mansions, Begumpet, Hyderabad-500016",
+"Professsion":"Software Engineer",
+"UserImage":""
+}
+,{
+"Sno":158,
+"Name":"Vedantam Ananta Swetha",
+"Father":"Sesha sai Ganjam",
+"Gotram":"Aatreyasa",
+"LandLine":"",
+"Mobile":9966552349,
+"Email":"v.v.kiron@gmial.com",
+"Native":"Hyderabad ",
+"Address":"#139, Blcok-C, Majestic Mansions, Begumpet, Hyderabad-500016",
+"Professsion":"Software Engineer",
+"UserImage":""
+}
+,{
+"Sno":159,
+"Name":"Vedantam Homa Srinivasa Naimish Acharya",
+"Father":"Vikhanasa Kiran vedantam",
+"Gotram":"Aatreyasa",
+"LandLine":"",
+"Mobile":9966552349,
+"Email":"v.v.kiron@gmial.com",
+"Native":"Hyderabad ",
+"Address":"#139, Blcok-C, Majestic Mansions, Begumpet, Hyderabad-500016",
 "Professsion":"",
 "UserImage":""
 }
@@ -1996,15 +2074,15 @@ angular.module('ngTableTutorial', ['ngTable'])
 
     $scope.usersTable = new ngTableParams({
             page: 1,
-            count: 1000
+            count: 10,
         }, {
             total: $scope.users.length,
             getData: function ($defer, params) {
-              	params.settings().counts = [];                        
-              	$scope.data = params.sorting() ? $filter('orderBy')($scope.users, params.orderBy()) : $scope.users;
-              	$scope.data = params.filter() ? $filter('filter')($scope.data, params.filter()) : $scope.data;
+              	//params.settings().counts = [];                        
+              	//$scope.data = params.sorting() ? $filter('orderBy')($scope.users, params.orderBy()) : $scope.users;
+              	$scope.data = params.filter() ? $filter('filter')($scope.users, params.filter()) : $scope.users;
               	$scope.data = $scope.data.slice((params.page() - 1) * params.count(), params.page() * params.count());
-              	params.settings().total = $scope.data.length < 11 ? $scope.data.length : $scope.users.length;
+              	//params.settings().total = $scope.data.length < 11 ? $scope.data.length : $scope.users.length;
               	$defer.resolve($scope.data);
             }
         });

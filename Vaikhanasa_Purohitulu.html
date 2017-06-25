@@ -9,7 +9,7 @@
     <meta name="google-site-verification" content="jU10rjNyf42RwJtqWsdPgcBFczML5wnBmEMPH0MwJbM" />
     <meta http-equiv="Cache-control" content="public">
     <link rel="icon" href="images/favicon.ico" type="image/x-icon">
-    <title>Vaikhanasa Matrimony</title>
+    <title>Vaikhanasa Purohitulu</title>
 
     <!-- Bootstrap -->
 	<link href="css/font-awesome.min.css" rel="stylesheet">
@@ -24,21 +24,15 @@
     <script src="js/Core/jquery.js"></script>
     <script src="js/Core/jquery-migrate-1.2.1.min.js"></script>
     <script src="js/ViewsJS/Common.js"></script>
-
-
-    <!--[if lt IE 9]>
-    <div style=' clear: both; text-align:center; position: relative;'>
-        <a href="http://windows.microsoft.com/en-US/internet-explorer/..">
-            <img src="images/ie8-panel/warning_bar_0000_us.jpg" border="0" height="42" width="820"
-                 alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today."/>
-        </a>
-    </div>
-    <script src="js/Core/html5shiv.js"></script>
-    <![endif]-->
+  
     <script src='js/Core/device.min.js'></script>
+    <script src="js/ViewsJS/Common.js"></script>
+    <script src="js/Core/angular.js"></script>
+    <script src="js/Core/ng-table.min.js"></script>
+    <script src="js/ViewsJS/Vaikhanasa_Purohitulu.js"></script>
 </head>
 
-<body>
+<body ng-app="ngTableTutorial">
 <div class="page">
     <!--========================================================
                               HEADER
@@ -46,17 +40,7 @@
     <header class="clearfix header__mod">
         <div id="stuck_container" class="stuck_container">
             
-            <!--<div class="srch"><a class="search-form_toggle" href="#"></a>
-
-                <form class="search-form" action="search.php" method="GET" accept-charset="utf-8">
-                    <label class="search-form_label">
-                        <input class="search-form_input" type="text" name="s" autocomplete="off"
-                               placeholder="Search.."/>
-                        <span class="search-form_liveout"></span>
-                    </label>
-                    <button class="search-form_submit fa-search" type="submit"></button>
-                </form>
-            </div>-->
+            
         </div>
     </header>
 
@@ -71,10 +55,36 @@
                 <h2 style="text-align: center;">
                     Vaikhanasa Purohitulu                     
                 </h2>
-                <br/><br/>
-                <h5 style="text-align: center;">
-                    Comming Soon ...
-                </h5>                
+                <br/>
+                <div ng-controller="purohitController">
+                    <h5 class="textCenter ">
+                        Below the list of vaikanasa purohit's who perform yaagnikam
+                    </h5>
+                    <div>
+                        <table ng-table="yaagnikamTable" show-filter="true" class="table table-striped table-hover table-bordered table-responsive">
+                            <tr ng-repeat="user in data">
+                                <td data-title="'NAME'" filter="{ 'Name': 'text' }" ng-bind="user.prefix + ' ' + user.Surname + ' ' + user.Name"></td>
+                                <td data-title="'RESIDENCE'" filter="{ 'Place': 'text' }" ng-bind="user.Place"></td>    
+                                <td data-title="'MOBILE'" filter="{ 'Mobile': 'text' }" ng-bind="user.Mobile"></td>
+                                <td data-title="'LANDLINE'" filter="{ 'LandLine': 'text' }" ng-bind="user.LandLine"></td>                            
+                            </tr>
+                        </table>                            
+                    </div>
+                    <br/><br/>
+                    <h5 class="textCenter textUnderline">
+                        Below the list of vaikanasa purohit's who perform aparam
+                    </h5>
+                    <div>
+                        <table ng-table="aparamTable" show-filter="true" class="table table-striped table-hover table-bordered table-responsive">
+                            <tr ng-repeat="user02 in data">
+                                <td data-title="'NAME'" filter="{ 'Name': 'text' }" ng-bind="user02.prefix + ' '+ user02.Surname + ' '+ user02.Name"></td>
+                                <td data-title="'RESIDENCE'" filter="{ 'Place': 'text' }" ng-bind="user02.Place"></td>    
+                                <td data-title="'MOBILE'" filter="{ 'Mobile': 'text' }" ng-bind="user02.Mobile"></td>
+                                <td data-title="'LANDLINE'" filter="{ 'LandLine': 'text' }" ng-bind="user02.LandLine"></td>                            
+                            </tr>
+                        </table>                            
+                    </div>
+                </div>
             </div>
         </section>
     </main>

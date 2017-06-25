@@ -102,3 +102,7 @@ th{
     border-bottom-width: thin;
     border-bottom-style: double;
 }
+
+.textUnderline{
+    text-decoration: underline;
+}

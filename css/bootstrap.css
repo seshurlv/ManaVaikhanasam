@@ -3175,14 +3175,14 @@ select[multiple].form-group-lg .form-control {
   font-weight: 700;
   text-align: center;
   cursor: pointer;
-  font-size: 20px;
+  font-size: 15px;
   line-height: 33px;
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
   text-transform: uppercase;
-  padding: 14px 42px;
+  padding: 5px 20px;
   -moz-transition: 0.3s all ease;
   -webkit-transition: 0.3s all ease;
   -o-transition: 0.3s all ease;
@@ -3191,12 +3191,12 @@ select[multiple].form-group-lg .form-control {
 .btn__mod {
   padding: 14px 40px;
 }
-* + .btn {
+/** + .btn {
   margin-top: 20px;
 }
 * + .btn-default {
   margin-top: 110px;
-}
+}*/
 .btn-default {
   color: #ffffff;
   background-color: #d97b1c;
