@@ -532,7 +532,27 @@ var aparamList = [{
 
 
 angular.module('ngTableTutorial', ['ngTable'])
-.controller('purohitController', function ($scope, $filter, ngTableParams) {
+.controller('yaagnikamController', function ($scope, $filter, ngTableParams) {
+
+    $scope.yaagnikam = yaagnikamList;
+
+    $scope.yaagnikamTable = new ngTableParams({
+            page: 1,
+            count: 10,
+        }, {
+            total: $scope.yaagnikam.length,
+            getData: function ($defer, params) {
+              	//params.settings().counts = [];                        
+              	//$scope.data = params.sorting() ? $filter('orderBy')($scope.users, params.orderBy()) : $scope.users;
+              	$scope.data = params.filter() ? $filter('filter')($scope.yaagnikam, params.filter()) : $scope.yaagnikam;
+              	$scope.data = $scope.data.slice((params.page() - 1) * params.count(), params.page() * params.count());
+              	//params.settings().total = $scope.data.length < 11 ? $scope.data.length : $scope.users.length;
+              	$defer.resolve($scope.data);
+            }
+        });       
+   
+})
+.controller('aparamController', function ($scope, $filter, ngTableParams) {
 
     $scope.yaagnikam = yaagnikamList;
     $scope.aparam = aparamList;            
