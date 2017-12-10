@@ -257,13 +257,21 @@ var donorsList = [{
 ,{
 "SNO":33,
 "TITLE":"Shri.",
+"SURNAME":"Rompicherla",
+"NAME":"Lakshmi Narasimha Charyulu",
+"PLACE":"Tenali",
+"AMOUNT":"25,000"
+}
+,{
+"SNO":34,
+"TITLE":"Shri.",
 "SURNAME":"Devayajanam",
 "NAME":"M G K Murthy",
 "PLACE":"BHEL",
 "AMOUNT":"22,500"
 }
 ,{
-"SNO":34,
+"SNO":35,
 "TITLE":"Shri.",
 "SURNAME":"Peddinti",
 "NAME":"R K Chakrapani",
@@ -271,7 +279,7 @@ var donorsList = [{
 "AMOUNT":"20,232"
 }
 ,{
-"SNO":35,
+"SNO":36,
 "TITLE":"Shri.",
 "SURNAME":"Paramkusam",
 "NAME":"Ranganadhacharyulu",
@@ -279,7 +287,7 @@ var donorsList = [{
 "AMOUNT":"20,000"
 }
 ,{
-"SNO":36,
+"SNO":37,
 "TITLE":"Shri.",
 "SURNAME":"",
 "NAME":"N.Rangaraavu",
@@ -287,7 +295,7 @@ var donorsList = [{
 "AMOUNT":"20,000"
 }
 ,{
-"SNO":37,
+"SNO":38,
 "TITLE":"Shri.",
 "SURNAME":"Tamirisa",
 "NAME":"Panakalacharyulu",
@@ -295,7 +303,7 @@ var donorsList = [{
 "AMOUNT":"20,000"
 }
 ,{
-"SNO":38,
+"SNO":39,
 "TITLE":"Shri.",
 "SURNAME":"Deevi",
 "NAME":"Sai Srinivas",
@@ -303,7 +311,7 @@ var donorsList = [{
 "AMOUNT":"20,000"
 }
 ,{
-"SNO":39,
+"SNO":40,
 "TITLE":"Shri.",
 "SURNAME":"Peddinti",
 "NAME":"S S Hariprasad ",
@@ -311,7 +319,7 @@ var donorsList = [{
 "AMOUNT":"20,000"
 }
 ,{
-"SNO":40,
+"SNO":41,
 "TITLE":"Shri.",
 "SURNAME":"Khandavalli",
 "NAME":"Venkata Ramana Murthy",
@@ -319,7 +327,7 @@ var donorsList = [{
 "AMOUNT":"16,116"
 }
 ,{
-"SNO":41,
+"SNO":42,
 "TITLE":"Shri.",
 "SURNAME":"Agnihotram",
 "NAME":"Sreerama Chakravarty, Lakshmana Kumar and Venugopal",
@@ -327,7 +335,7 @@ var donorsList = [{
 "AMOUNT":"15,000"
 }
 ,{
-"SNO":42,
+"SNO":43,
 "TITLE":"Shri.",
 "SURNAME":"Agnihotram",
 "NAME":"Krishna Kishore",
@@ -335,7 +343,7 @@ var donorsList = [{
 "AMOUNT":"11,493"
 }
 ,{
-"SNO":43,
+"SNO":44,
 "TITLE":"Shri.",
 "SURNAME":"Vedantam",
 "NAME":"RamaKrishna",
@@ -343,7 +351,7 @@ var donorsList = [{
 "AMOUNT":"10,116"
 }
 ,{
-"SNO":44,
+"SNO":45,
 "TITLE":"Shri.",
 "SURNAME":"Deevi",
 "NAME":"Srinivas ",
@@ -351,7 +359,7 @@ var donorsList = [{
 "AMOUNT":"10,116"
 }
 ,{
-"SNO":45,
+"SNO":46,
 "TITLE":"Shri.",
 "SURNAME":"Agnihotram",
 "NAME":"AppalaCharyulu",
@@ -359,7 +367,7 @@ var donorsList = [{
 "AMOUNT":"10,116"
 }
 ,{
-"SNO":46,
+"SNO":47,
 "TITLE":"Shri.",
 "SURNAME":"Vedantam",
 "NAME":"Radha Krishnamacharyulu",
@@ -367,7 +375,7 @@ var donorsList = [{
 "AMOUNT":"10,116"
 }
 ,{
-"SNO":47,
+"SNO":48,
 "TITLE":"Shri.",
 "SURNAME":"Deevi",
 "NAME":"Venkataramana",
@@ -375,7 +383,7 @@ var donorsList = [{
 "AMOUNT":"10,116"
 }
 ,{
-"SNO":48,
+"SNO":49,
 "TITLE":"Shri.",
 "SURNAME":"Sribhashyam",
 "NAME":"Ramakrishna",
@@ -383,7 +391,7 @@ var donorsList = [{
 "AMOUNT":"10,116"
 }
 ,{
-"SNO":49,
+"SNO":50,
 "TITLE":"Shri.",
 "SURNAME":"",
 "NAME":"S.Prasada Charyulu & Bros",
@@ -391,7 +399,7 @@ var donorsList = [{
 "AMOUNT":"10,116"
 }
 ,{
-"SNO":50,
+"SNO":51,
 "TITLE":"Shri.",
 "SURNAME":"Nalluri",
 "NAME":"Dasaradha Srinivasa Deekshithulu",
@@ -399,7 +407,7 @@ var donorsList = [{
 "AMOUNT":"10,116"
 }
 ,{
-"SNO":51,
+"SNO":52,
 "TITLE":"Shri.",
 "SURNAME":"Srinivasula",
 "NAME":"Subhadhracharyulu",
@@ -407,7 +415,7 @@ var donorsList = [{
 "AMOUNT":"10,116"
 }
 ,{
-"SNO":52,
+"SNO":53,
 "TITLE":"Smt.",
 "SURNAME":"Deevi",
 "NAME":"Rajyalakshmi",
@@ -415,7 +423,7 @@ var donorsList = [{
 "AMOUNT":"10,116"
 }
 ,{
-"SNO":53,
+"SNO":54,
 "TITLE":"Shri.",
 "SURNAME":"Vedantam",
 "NAME":"Hari Srinivasa Deekshitulu",
@@ -423,7 +431,7 @@ var donorsList = [{
 "AMOUNT":"10,116"
 }
 ,{
-"SNO":54,
+"SNO":55,
 "TITLE":"Shri.",
 "SURNAME":"Deevi",
 "NAME":"V V Ramakrishnama Charyulu",
@@ -431,7 +439,7 @@ var donorsList = [{
 "AMOUNT":"10,116"
 }
 ,{
-"SNO":55,
+"SNO":56,
 "TITLE":"Shri.",
 "SURNAME":"Muttevi",
 "NAME":"LeelaKrishna",
@@ -439,7 +447,7 @@ var donorsList = [{
 "AMOUNT":"10,116"
 }
 ,{
-"SNO":56,
+"SNO":57,
 "TITLE":"Shri.",
 "SURNAME":"Deevi",
 "NAME":"Venu Madhav",
@@ -447,7 +455,15 @@ var donorsList = [{
 "AMOUNT":"10,016"
 }
 ,{
-"SNO":57,
+"SNO":58,
+"TITLE":"Shri.",
+"SURNAME":"Deevi",
+"NAME":"VenkataLakshmi",
+"PLACE":"Borabanda",
+"AMOUNT":"10,116"
+}
+,{
+"SNO":59,
 "TITLE":"Shri.",
 "SURNAME":"Govardhanam",
 "NAME":"Pattabhirama charyulu ",
@@ -455,7 +471,7 @@ var donorsList = [{
 "AMOUNT":"10,001"
 }
 ,{
-"SNO":58,
+"SNO":60,
 "TITLE":"Shri.",
 "SURNAME":"Deevi",
 "NAME":"Tushara & Havisha in Memory of their Father late Deevi Lakshmi Narasimha chrayulu",
@@ -463,7 +479,7 @@ var donorsList = [{
 "AMOUNT":"10,001"
 }
 ,{
-"SNO":59,
+"SNO":61,
 "TITLE":"Shri.",
 "SURNAME":"Peddinti",
 "NAME":"Bhaskara Murty ",
@@ -471,7 +487,7 @@ var donorsList = [{
 "AMOUNT":"10,001"
 }
 ,{
-"SNO":60,
+"SNO":62,
 "TITLE":"Shri.",
 "SURNAME":"",
 "NAME":"S.V.Rangacharyulu",
@@ -479,7 +495,7 @@ var donorsList = [{
 "AMOUNT":"10,001"
 }
 ,{
-"SNO":61,
+"SNO":63,
 "TITLE":"Shri.",
 "SURNAME":"Parasaram",
 "NAME":"AlahaSingaracharyulu",
@@ -487,7 +503,7 @@ var donorsList = [{
 "AMOUNT":"10,000"
 }
 ,{
-"SNO":62,
+"SNO":64,
 "TITLE":"Shri.",
 "SURNAME":"Tamirisa",
 "NAME":"Vikhanasacharyulu",
@@ -495,7 +511,7 @@ var donorsList = [{
 "AMOUNT":"10,000"
 }
 ,{
-"SNO":63,
+"SNO":65,
 "TITLE":"Shri.",
 "SURNAME":"Srinivasula",
 "NAME":"Srinivasula Deekshitulu",
@@ -503,7 +519,7 @@ var donorsList = [{
 "AMOUNT":"10,000"
 }
 ,{
-"SNO":64,
+"SNO":66,
 "TITLE":"Shri.",
 "SURNAME":"Deevi",
 "NAME":"S Bhishak",
@@ -511,7 +527,7 @@ var donorsList = [{
 "AMOUNT":"10,000"
 }
 ,{
-"SNO":65,
+"SNO":67,
 "TITLE":"Smt.",
 "SURNAME":"Vedantam",
 "NAME":"Sita",
@@ -519,7 +535,7 @@ var donorsList = [{
 "AMOUNT":"10,000"
 }
 ,{
-"SNO":66,
+"SNO":68,
 "TITLE":"Shri.",
 "SURNAME":"Deevi",
 "NAME":"Srinivas ",
@@ -527,7 +543,7 @@ var donorsList = [{
 "AMOUNT":"10,000"
 }
 ,{
-"SNO":67,
+"SNO":69,
 "TITLE":"Shri.",
 "SURNAME":"Attili",
 "NAME":"Gopala krishnamacharyulu",
@@ -535,7 +551,7 @@ var donorsList = [{
 "AMOUNT":"10,000"
 }
 ,{
-"SNO":68,
+"SNO":70,
 "TITLE":"Shri.",
 "SURNAME":"Peddinti",
 "NAME":"Rajagopal",
@@ -543,7 +559,7 @@ var donorsList = [{
 "AMOUNT":"10,000"
 }
 ,{
-"SNO":69,
+"SNO":71,
 "TITLE":"Shri.",
 "SURNAME":"Deevi",
 "NAME":"Tandava Krishna Murthy",
@@ -551,7 +567,7 @@ var donorsList = [{
 "AMOUNT":"10,000"
 }
 ,{
-"SNO":70,
+"SNO":72,
 "TITLE":"Shri.",
 "SURNAME":"Vedantam",
 "NAME":"Srinivasa Murty",
@@ -559,7 +575,7 @@ var donorsList = [{
 "AMOUNT":"10,000"
 }
 ,{
-"SNO":71,
+"SNO":73,
 "TITLE":"Smt.",
 "SURNAME":"Deevi",
 "NAME":"Lakshmi Kantam",
@@ -567,7 +583,7 @@ var donorsList = [{
 "AMOUNT":"10,000"
 }
 ,{
-"SNO":72,
+"SNO":74,
 "TITLE":"Shri.",
 "SURNAME":"Deevi",
 "NAME":"S V L NarasimhaCharyulu",
@@ -575,7 +591,7 @@ var donorsList = [{
 "AMOUNT":"10,000"
 }
 ,{
-"SNO":73,
+"SNO":75,
 "TITLE":"Shri.",
 "SURNAME":"Agnihotram",
 "NAME":"A V RaghavaCharyulu",
@@ -583,7 +599,7 @@ var donorsList = [{
 "AMOUNT":"10,000"
 }
 ,{
-"SNO":74,
+"SNO":76,
 "TITLE":"Smt.",
 "SURNAME":"Vedantam",
 "NAME":"Devaki Devi & SreenivasaMurty",
@@ -591,7 +607,7 @@ var donorsList = [{
 "AMOUNT":"10,000"
 }
 ,{
-"SNO":75,
+"SNO":77,
 "TITLE":"Shri.",
 "SURNAME":"Ganjam",
 "NAME":"G A SeshaCharyulu",
@@ -599,7 +615,7 @@ var donorsList = [{
 "AMOUNT":"10,000"
 }
 ,{
-"SNO":76,
+"SNO":78,
 "TITLE":"Shri.",
 "SURNAME":"Brindavanam",
 "NAME":"V N A Vedadri ",
@@ -607,7 +623,7 @@ var donorsList = [{
 "AMOUNT":"10,000"
 }
 ,{
-"SNO":77,
+"SNO":79,
 "TITLE":"Shri.",
 "SURNAME":"Rompicherla",
 "NAME":"V BharataCharyulu",
@@ -615,7 +631,7 @@ var donorsList = [{
 "AMOUNT":"10,000"
 }
 ,{
-"SNO":78,
+"SNO":80,
 "TITLE":"Shri.",
 "SURNAME":"Agnihotram",
 "NAME":"Lakshmi NarasimhaCharyulu ",
@@ -623,7 +639,7 @@ var donorsList = [{
 "AMOUNT":"10,000"
 }
 ,{
-"SNO":79,
+"SNO":81,
 "TITLE":"Shri.",
 "SURNAME":"Tamirisa",
 "NAME":"V L N Acharyulu ",
@@ -631,7 +647,7 @@ var donorsList = [{
 "AMOUNT":"10,000"
 }
 ,{
-"SNO":80,
+"SNO":82,
 "TITLE":"Shri.",
 "SURNAME":"Khandavalli",
 "NAME":"V S Prabhakaram",
@@ -639,7 +655,7 @@ var donorsList = [{
 "AMOUNT":"10,000"
 }
 ,{
-"SNO":81,
+"SNO":83,
 "TITLE":"Shri.",
 "SURNAME":"Peddinti",
 "NAME":"GopalaKrishna",
@@ -647,7 +663,7 @@ var donorsList = [{
 "AMOUNT":"10,000"
 }
 ,{
-"SNO":82,
+"SNO":84,
 "TITLE":"Shri.",
 "SURNAME":"Vedantam",
 "NAME":"ChandraMohan Srinivas ",
@@ -655,7 +671,7 @@ var donorsList = [{
 "AMOUNT":"10,000"
 }
 ,{
-"SNO":83,
+"SNO":85,
 "TITLE":"Shri.",
 "SURNAME":"Agnihotram",
 "NAME":"Krishna Prasad",
@@ -663,7 +679,7 @@ var donorsList = [{
 "AMOUNT":"10,000"
 }
 ,{
-"SNO":84,
+"SNO":86,
 "TITLE":"Shri.",
 "SURNAME":"Agnihotram",
 "NAME":"HarinarayanaCharyulu",
@@ -671,7 +687,7 @@ var donorsList = [{
 "AMOUNT":"10,000"
 }
 ,{
-"SNO":85,
+"SNO":87,
 "TITLE":"Shri.",
 "SURNAME":"Vedantam",
 "NAME":"MadhavaCharyulu ",
@@ -679,7 +695,7 @@ var donorsList = [{
 "AMOUNT":"10,000"
 }
 ,{
-"SNO":86,
+"SNO":88,
 "TITLE":"Shri.",
 "SURNAME":"Rompicherla",
 "NAME":"Muralikrishna",
@@ -687,7 +703,7 @@ var donorsList = [{
 "AMOUNT":"10,000"
 }
 ,{
-"SNO":87,
+"SNO":89,
 "TITLE":"Shri.",
 "SURNAME":"Brindavanam",
 "NAME":"Venkata Venugopalacharyulu",
@@ -695,7 +711,7 @@ var donorsList = [{
 "AMOUNT":"10,000"
 }
 ,{
-"SNO":88,
+"SNO":90,
 "TITLE":"Shri.",
 "SURNAME":"Kallagunta",
 "NAME":"V Raghurama Murty",
@@ -703,111 +719,111 @@ var donorsList = [{
 "AMOUNT":"10,000"
 }
 ,{
-"SNO":89,
+"SNO":91,
 "TITLE":"Shri.",
 "SURNAME":"Vedantam",
 "NAME":"Satyanarayana Kumar",
 "PLACE":"Kukatpally",
-"AMOUNT":"10000"
-}
-,{
-"SNO":90,
-"TITLE":"Shri.",
-"SURNAME":"Govardhanam",
-"NAME":"Narasimha Murty",
-"PLACE":"Hydershakotla",
-"AMOUNT":"10000"
-}
-,{
-"SNO":91,
-"TITLE":"Shri.",
-"SURNAME":"",
-"NAME":"G.SeetharamaaCharyulu",
-"PLACE":"Khairthabad",
-"AMOUNT":"10000"
+"AMOUNT":"10,000"
 }
 ,{
 "SNO":92,
 "TITLE":"Shri.",
-"SURNAME":"Nalluri",
-"NAME":"Lakshmi Narayana BhattaCharyulu",
-"PLACE":"Nallur(Guntur Dist.)",
-"AMOUNT":"10000"
+"SURNAME":"Govardhanam",
+"NAME":"Narasimha Murty",
+"PLACE":"Hydershakotla",
+"AMOUNT":"10,000"
 }
 ,{
 "SNO":93,
 "TITLE":"Shri.",
-"SURNAME":"Parasaram",
-"NAME":"Seshasai",
-"PLACE":"Vanasthalipuram",
-"AMOUNT":"10000"
+"SURNAME":"",
+"NAME":"G.SeetharamaaCharyulu",
+"PLACE":"Khairthabad",
+"AMOUNT":"10,000"
 }
 ,{
 "SNO":94,
 "TITLE":"Shri.",
-"SURNAME":"Peddinti",
-"NAME":"Sreerama Chandra Murty",
-"PLACE":"Chikkadapalli",
-"AMOUNT":"10000"
+"SURNAME":"Nalluri",
+"NAME":"Lakshmi Narayana BhattaCharyulu",
+"PLACE":"Nallur(Guntur Dist.)",
+"AMOUNT":"10,000"
 }
 ,{
 "SNO":95,
 "TITLE":"Shri.",
-"SURNAME":"Khandavalli",
-"NAME":"PrabhakaraCharyulu",
+"SURNAME":"Parasaram",
+"NAME":"Seshasai",
 "PLACE":"Vanasthalipuram",
-"AMOUNT":"10000"
+"AMOUNT":"10,000"
 }
 ,{
 "SNO":96,
 "TITLE":"Shri.",
-"SURNAME":"Sribhashyam",
-"NAME":"R Krishnama Charyulu",
-"PLACE":"Saroornagar",
-"AMOUNT":"10000"
+"SURNAME":"Peddinti",
+"NAME":"Sreerama Chandra Murty",
+"PLACE":"Chikkadapalli",
+"AMOUNT":"10,000"
 }
 ,{
 "SNO":97,
 "TITLE":"Shri.",
-"SURNAME":"Sribhashyam",
-"NAME":"Krishna Prasad",
-"PLACE":"Saroornagar",
-"AMOUNT":"10000"
+"SURNAME":"Khandavalli",
+"NAME":"PrabhakaraCharyulu",
+"PLACE":"Vanasthalipuram",
+"AMOUNT":"10,000"
 }
 ,{
 "SNO":98,
 "TITLE":"Shri.",
 "SURNAME":"Sribhashyam",
-"NAME":"Narayana",
+"NAME":"R Krishnama Charyulu",
 "PLACE":"Saroornagar",
-"AMOUNT":"10000"
+"AMOUNT":"10,000"
 }
 ,{
 "SNO":99,
 "TITLE":"Shri.",
-"SURNAME":"Nalluri",
-"NAME":"Madhusudhan ",
-"PLACE":"Warasiguda",
-"AMOUNT":"10000"
+"SURNAME":"Sribhashyam",
+"NAME":"Krishna Prasad",
+"PLACE":"Saroornagar",
+"AMOUNT":"10,000"
 }
 ,{
 "SNO":100,
 "TITLE":"Shri.",
-"SURNAME":"Nalluri",
-"NAME":"Vikhanasa BattaCharyulu",
-"PLACE":"Nallur(Guntur Dist.)",
-"AMOUNT":"10000"
+"SURNAME":"Sribhashyam",
+"NAME":"Narayana",
+"PLACE":"Saroornagar",
+"AMOUNT":"10,000"
 }
 ,{
 "SNO":101,
 "TITLE":"Shri.",
-"SURNAME":"Rompicherla",
-"NAME":"Raghavacharyulu  In memory of Late R.VidyaSagar ",
-"PLACE":"Tenali",
-"AMOUNT":"10000"
+"SURNAME":"Nalluri",
+"NAME":"Madhusudhan ",
+"PLACE":"Warasiguda",
+"AMOUNT":"10,000"
 }
 ,{
 "SNO":102,
+"TITLE":"Shri.",
+"SURNAME":"Nalluri",
+"NAME":"Vikhanasa BattaCharyulu",
+"PLACE":"Nallur(Guntur Dist.)",
+"AMOUNT":"10,000"
+}
+,{
+"SNO":103,
+"TITLE":"Shri.",
+"SURNAME":"Rompicherla",
+"NAME":"Raghavacharyulu  In memory of Late R.VidyaSagar ",
+"PLACE":"Tenali",
+"AMOUNT":"10,000"
+}
+,{
+"SNO":104,
 "TITLE":"Smt.",
 "SURNAME":"Vadapalli",
 "NAME":"Kanakam (on the occation of his son's thread cermony)",
@@ -815,7 +831,7 @@ var donorsList = [{
 "AMOUNT":"10000"
 }
 ,{
-"SNO":103,
+"SNO":105,
 "TITLE":"Shri.",
 "SURNAME":"Deevi",
 "NAME":"Srinivasa Krishna",
@@ -823,7 +839,7 @@ var donorsList = [{
 "AMOUNT":"10000"
 }
 ,{
-"SNO":104,
+"SNO":106,
 "TITLE":"Shri.",
 "SURNAME":"",
 "NAME":"D T K Chakravarthi",
@@ -831,7 +847,7 @@ var donorsList = [{
 "AMOUNT":"10000"
 }
 ,{
-"SNO":105,
+"SNO":107,
 "TITLE":"Shri.",
 "SURNAME":"Govardhanam",
 "NAME":"Anantharam",
@@ -839,7 +855,7 @@ var donorsList = [{
 "AMOUNT":"10000"
 }
 ,{
-"SNO":106,
+"SNO":108,
 "TITLE":"Shri.",
 "SURNAME":"Tamirisa",
 "NAME":"Anantha Charyulu",
@@ -847,7 +863,7 @@ var donorsList = [{
 "AMOUNT":"10000"
 }
 ,{
-"SNO":107,
+"SNO":109,
 "TITLE":"Shri.",
 "SURNAME":"Parankusam",
 "NAME":"Jwala NarasimhaCharyulu",
@@ -855,7 +871,7 @@ var donorsList = [{
 "AMOUNT":"7722"
 }
 ,{
-"SNO":108,
+"SNO":110,
 "TITLE":"Shri.",
 "SURNAME":"Khandavalli",
 "NAME":"V R S N Acharyulu",
@@ -863,7 +879,7 @@ var donorsList = [{
 "AMOUNT":"7000"
 }
 ,{
-"SNO":109,
+"SNO":111,
 "TITLE":"Smt.",
 "SURNAME":"Devayajanam",
 "NAME":"Lalitha Kumari",
@@ -871,7 +887,7 @@ var donorsList = [{
 "AMOUNT":"7000"
 }
 ,{
-"SNO":110,
+"SNO":112,
 "TITLE":"Shri.",
 "SURNAME":"Vedantam",
 "NAME":"Hariprasad",
@@ -879,7 +895,7 @@ var donorsList = [{
 "AMOUNT":"5116"
 }
 ,{
-"SNO":111,
+"SNO":113,
 "TITLE":"Shri.",
 "SURNAME":"Nalluri",
 "NAME":"Narayanacharyulu",
@@ -887,7 +903,7 @@ var donorsList = [{
 "AMOUNT":"5116"
 }
 ,{
-"SNO":112,
+"SNO":114,
 "TITLE":"Shri.",
 "SURNAME":"",
 "NAME":"P.V KrishnaMurty",
@@ -895,7 +911,7 @@ var donorsList = [{
 "AMOUNT":"5116"
 }
 ,{
-"SNO":113,
+"SNO":115,
 "TITLE":"Shri.",
 "SURNAME":"Tamirisa",
 "NAME":"V G Jagannath",
@@ -903,7 +919,7 @@ var donorsList = [{
 "AMOUNT":"5116"
 }
 ,{
-"SNO":114,
+"SNO":116,
 "TITLE":"Shri.",
 "SURNAME":"Narayanam",
 "NAME":"Vivekananda",
@@ -911,7 +927,7 @@ var donorsList = [{
 "AMOUNT":"5116"
 }
 ,{
-"SNO":115,
+"SNO":117,
 "TITLE":"Shri.",
 "SURNAME":"D",
 "NAME":"Sreenivasa Charyulu",
@@ -919,7 +935,7 @@ var donorsList = [{
 "AMOUNT":"5116"
 }
 ,{
-"SNO":116,
+"SNO":118,
 "TITLE":"Shri.",
 "SURNAME":"Kallagunta",
 "NAME":"L R Prasad",
@@ -927,7 +943,7 @@ var donorsList = [{
 "AMOUNT":"5116"
 }
 ,{
-"SNO":117,
+"SNO":119,
 "TITLE":"Shri.",
 "SURNAME":"",
 "NAME":"R.Ranganadha Charyulu",
@@ -935,7 +951,7 @@ var donorsList = [{
 "AMOUNT":"5116"
 }
 ,{
-"SNO":118,
+"SNO":120,
 "TITLE":"Shri.",
 "SURNAME":"",
 "NAME":"S.A.V.SatyanarayanaCharyulu",
@@ -943,7 +959,7 @@ var donorsList = [{
 "AMOUNT":"5116"
 }
 ,{
-"SNO":119,
+"SNO":121,
 "TITLE":"Shri.",
 "SURNAME":"Narayanam",
 "NAME":"RamaKrishna",
@@ -951,7 +967,7 @@ var donorsList = [{
 "AMOUNT":"5100"
 }
 ,{
-"SNO":120,
+"SNO":122,
 "TITLE":"Shri.",
 "SURNAME":"Bhavavarapu",
 "NAME":"SatyaPrasad",
@@ -959,7 +975,7 @@ var donorsList = [{
 "AMOUNT":"5,004"
 }
 ,{
-"SNO":121,
+"SNO":123,
 "TITLE":"Shri.",
 "SURNAME":"Meduri",
 "NAME":"Kodanda Rama Deekshitulu",
@@ -967,7 +983,7 @@ var donorsList = [{
 "AMOUNT":"5,004"
 }
 ,{
-"SNO":122,
+"SNO":124,
 "TITLE":"Shri.",
 "SURNAME":"",
 "NAME":"P.RangaaCharyulu",
@@ -975,7 +991,7 @@ var donorsList = [{
 "AMOUNT":"5001"
 }
 ,{
-"SNO":123,
+"SNO":125,
 "TITLE":"Shri.",
 "SURNAME":"Agnihotram",
 "NAME":"Sreekanth",
@@ -983,7 +999,7 @@ var donorsList = [{
 "AMOUNT":"5001"
 }
 ,{
-"SNO":124,
+"SNO":126,
 "TITLE":"Smt.",
 "SURNAME":"",
 "NAME":"P. Sai Madhuri ",
@@ -991,7 +1007,7 @@ var donorsList = [{
 "AMOUNT":"5001"
 }
 ,{
-"SNO":125,
+"SNO":127,
 "TITLE":"Smt.",
 "SURNAME":"",
 "NAME":"A. Satyavathi ",
@@ -999,7 +1015,7 @@ var donorsList = [{
 "AMOUNT":"5,001"
 }
 ,{
-"SNO":126,
+"SNO":128,
 "TITLE":"Shri.",
 "SURNAME":"Sribhashyam",
 "NAME":"R Krishnamacharyulu",
@@ -1007,7 +1023,7 @@ var donorsList = [{
 "AMOUNT":"5000"
 }
 ,{
-"SNO":127,
+"SNO":129,
 "TITLE":"Shri.",
 "SURNAME":"Pedapudi",
 "NAME":"Venugopala Krishnamacharyulu",
@@ -1015,7 +1031,7 @@ var donorsList = [{
 "AMOUNT":"5000"
 }
 ,{
-"SNO":128,
+"SNO":130,
 "TITLE":"Shri.",
 "SURNAME":"Srinivasula",
 "NAME":"RamachandraaCharyulu",
@@ -1023,7 +1039,7 @@ var donorsList = [{
 "AMOUNT":"5000"
 }
 ,{
-"SNO":129,
+"SNO":131,
 "TITLE":"Shri.",
 "SURNAME":"Vedantam",
 "NAME":"Srinivasa Ayodhyanadh",
@@ -1031,7 +1047,7 @@ var donorsList = [{
 "AMOUNT":"5000"
 }
 ,{
-"SNO":130,
+"SNO":132,
 "TITLE":"Smt.",
 "SURNAME":"Vadapalli",
 "NAME":"VijayaLakshmi",
@@ -1039,7 +1055,7 @@ var donorsList = [{
 "AMOUNT":"5000"
 }
 ,{
-"SNO":131,
+"SNO":133,
 "TITLE":"Shri.",
 "SURNAME":"Sribhashyam",
 "NAME":"Anjaneyulu",
@@ -1047,7 +1063,7 @@ var donorsList = [{
 "AMOUNT":"5000"
 }
 ,{
-"SNO":132,
+"SNO":134,
 "TITLE":"Shri.",
 "SURNAME":"Peddinti",
 "NAME":"VenkataGopala krishnamacharyulu",
@@ -1055,7 +1071,7 @@ var donorsList = [{
 "AMOUNT":"5000"
 }
 ,{
-"SNO":133,
+"SNO":135,
 "TITLE":"Shri.",
 "SURNAME":"",
 "NAME":"P.V.B SatyanarayanaCharyulu",
@@ -1063,7 +1079,7 @@ var donorsList = [{
 "AMOUNT":"5000"
 }
 ,{
-"SNO":134,
+"SNO":136,
 "TITLE":"Shri.",
 "SURNAME":"Meduri",
 "NAME":"Murali",
@@ -1071,7 +1087,7 @@ var donorsList = [{
 "AMOUNT":"5000"
 }
 ,{
-"SNO":135,
+"SNO":137,
 "TITLE":"Shri.",
 "SURNAME":"Vedantam",
 "NAME":"Srinivasa Murthy",
@@ -1079,7 +1095,7 @@ var donorsList = [{
 "AMOUNT":"5000"
 }
 ,{
-"SNO":136,
+"SNO":138,
 "TITLE":"Shri.",
 "SURNAME":"",
 "NAME":"V.RamaKrishna & Bros ,(In memory of Late V.Janardhanacharyulu )",
@@ -1087,7 +1103,7 @@ var donorsList = [{
 "AMOUNT":"5000"
 }
 ,{
-"SNO":137,
+"SNO":139,
 "TITLE":"Shri.",
 "SURNAME":"Deevi",
 "NAME":"Yogananda Narasimha Deekshithulu",
@@ -1095,7 +1111,7 @@ var donorsList = [{
 "AMOUNT":"5000"
 }
 ,{
-"SNO":138,
+"SNO":140,
 "TITLE":"Shri.",
 "SURNAME":"Agnihotram",
 "NAME":"Hanumanthacharyulu",
@@ -1103,7 +1119,7 @@ var donorsList = [{
 "AMOUNT":"5000"
 }
 ,{
-"SNO":139,
+"SNO":141,
 "TITLE":"Shri.",
 "SURNAME":"Vedantam",
 "NAME":"Ranganadhacharyulu",
@@ -1111,7 +1127,7 @@ var donorsList = [{
 "AMOUNT":"5000"
 }
 ,{
-"SNO":140,
+"SNO":142,
 "TITLE":"Shri.",
 "SURNAME":"",
 "NAME":"S.Ranganadh",
@@ -1119,7 +1135,7 @@ var donorsList = [{
 "AMOUNT":"5000"
 }
 ,{
-"SNO":141,
+"SNO":143,
 "TITLE":"Shri.",
 "SURNAME":"",
 "NAME":"V.Venkata RangaChary",
@@ -1127,7 +1143,7 @@ var donorsList = [{
 "AMOUNT":"5000"
 }
 ,{
-"SNO":142,
+"SNO":144,
 "TITLE":"Shri.",
 "SURNAME":"",
 "NAME":"G.Raghunadh",
@@ -1135,7 +1151,7 @@ var donorsList = [{
 "AMOUNT":"5000"
 }
 ,{
-"SNO":143,
+"SNO":145,
 "TITLE":"Shri.",
 "SURNAME":"Angara",
 "NAME":"Sairam",
@@ -1143,7 +1159,7 @@ var donorsList = [{
 "AMOUNT":"5000"
 }
 ,{
-"SNO":144,
+"SNO":146,
 "TITLE":"Shri.",
 "SURNAME":"Sudarsanam",
 "NAME":"GopalaCharyulu",
@@ -1151,7 +1167,7 @@ var donorsList = [{
 "AMOUNT":"5000"
 }
 ,{
-"SNO":145,
+"SNO":147,
 "TITLE":"Shri.",
 "SURNAME":"Agnihotram",
 "NAME":"VenkataCharyulu",
@@ -1159,7 +1175,7 @@ var donorsList = [{
 "AMOUNT":"5000"
 }
 ,{
-"SNO":146,
+"SNO":148,
 "TITLE":"Shri.",
 "SURNAME":"",
 "NAME":"A.V Ramana ",
@@ -1167,7 +1183,7 @@ var donorsList = [{
 "AMOUNT":"5000"
 }
 ,{
-"SNO":147,
+"SNO":149,
 "TITLE":"Shri.",
 "SURNAME":"Devayajanam",
 "NAME":"Sridhara Chakravarthy",
@@ -1175,7 +1191,7 @@ var donorsList = [{
 "AMOUNT":"5000"
 }
 ,{
-"SNO":148,
+"SNO":150,
 "TITLE":"Shri.",
 "SURNAME":"Narayanam",
 "NAME":"SrinivasaMurty",
@@ -1183,7 +1199,7 @@ var donorsList = [{
 "AMOUNT":"5000"
 }
 ,{
-"SNO":149,
+"SNO":151,
 "TITLE":"Shri.",
 "SURNAME":"Deevi",
 "NAME":"Srinivasa Murthy",
@@ -1191,7 +1207,7 @@ var donorsList = [{
 "AMOUNT":"5000"
 }
 ,{
-"SNO":150,
+"SNO":152,
 "TITLE":"Shri.",
 "SURNAME":"Noori",
 "NAME":"Subhramanya Sastri",
@@ -1199,7 +1215,7 @@ var donorsList = [{
 "AMOUNT":"5000"
 }
 ,{
-"SNO":151,
+"SNO":153,
 "TITLE":"Shri.",
 "SURNAME":"Sribhashyam",
 "NAME":"Krishna Prasad",
@@ -1207,7 +1223,7 @@ var donorsList = [{
 "AMOUNT":"5000"
 }
 ,{
-"SNO":152,
+"SNO":154,
 "TITLE":"Shri.",
 "SURNAME":"",
 "NAME":"S. Vijaya Sai",
@@ -1215,7 +1231,7 @@ var donorsList = [{
 "AMOUNT":"5000"
 }
 ,{
-"SNO":153,
+"SNO":155,
 "TITLE":"Shri.",
 "SURNAME":"Deevi",
 "NAME":"V VaradaCharyulu",
@@ -1223,7 +1239,7 @@ var donorsList = [{
 "AMOUNT":"5000"
 }
 ,{
-"SNO":154,
+"SNO":156,
 "TITLE":"Shri.",
 "SURNAME":"Sribhashyam",
 "NAME":"Vijaya Saradhi",
@@ -1231,7 +1247,7 @@ var donorsList = [{
 "AMOUNT":"5000"
 }
 ,{
-"SNO":155,
+"SNO":157,
 "TITLE":"Shri.",
 "SURNAME":"Sribhashyam",
 "NAME":"Sriman narayana",
@@ -1239,7 +1255,7 @@ var donorsList = [{
 "AMOUNT":"5000"
 }
 ,{
-"SNO":156,
+"SNO":158,
 "TITLE":"Shri.",
 "SURNAME":"Deevi",
 "NAME":"Srinivasulacharyulu  ",
@@ -1247,7 +1263,7 @@ var donorsList = [{
 "AMOUNT":"5000"
 }
 ,{
-"SNO":157,
+"SNO":159,
 "TITLE":"Shri.",
 "SURNAME":"Narayanam",
 "NAME":"Satya Deva Vara Prasad",
@@ -1255,7 +1271,7 @@ var donorsList = [{
 "AMOUNT":"5000"
 }
 ,{
-"SNO":158,
+"SNO":160,
 "TITLE":"Shri.",
 "SURNAME":"Vadapalli",
 "NAME":"Buchibabu",
@@ -1263,7 +1279,7 @@ var donorsList = [{
 "AMOUNT":"3001"
 }
 ,{
-"SNO":159,
+"SNO":161,
 "TITLE":"Shri.",
 "SURNAME":"",
 "NAME":"L.Sundarayya",
@@ -1271,7 +1287,7 @@ var donorsList = [{
 "AMOUNT":"3000"
 }
 ,{
-"SNO":160,
+"SNO":162,
 "TITLE":"Shri.",
 "SURNAME":"",
 "NAME":"K.Praveen ",
@@ -1279,7 +1295,7 @@ var donorsList = [{
 "AMOUNT":"3000"
 }
 ,{
-"SNO":161,
+"SNO":163,
 "TITLE":"Shri.",
 "SURNAME":"",
 "NAME":"P.Gopalaswamy",
@@ -1287,7 +1303,15 @@ var donorsList = [{
 "AMOUNT":"3000"
 }
 ,{
-"SNO":162,
+"SNO":164,
+"TITLE":"Shri.",
+"SURNAME":"Peddinti",
+"NAME":"Ananthacharyulu in memory of Bhakaramma",
+"PLACE":"TKR Nagar",
+"AMOUNT":"3000"
+}
+,{
+"SNO":165,
 "TITLE":"Shri.",
 "SURNAME":"Deevi",
 "NAME":"PadmanabhaCharyulu",
@@ -1295,7 +1319,7 @@ var donorsList = [{
 "AMOUNT":"2500"
 }
 ,{
-"SNO":163,
+"SNO":166,
 "TITLE":"Shri.",
 "SURNAME":"Agnihotram",
 "NAME":"UmashankaraCharyulu",
@@ -1303,7 +1327,7 @@ var donorsList = [{
 "AMOUNT":"2016"
 }
 ,{
-"SNO":164,
+"SNO":167,
 "TITLE":"Shri.",
 "SURNAME":"",
 "NAME":"P.Satyanarayana",
@@ -1311,7 +1335,7 @@ var donorsList = [{
 "AMOUNT":"2000"
 }
 ,{
-"SNO":165,
+"SNO":168,
 "TITLE":"Shri.",
 "SURNAME":"Rompicherla",
 "NAME":"Rama Krishnamacharyulu",
@@ -1319,7 +1343,7 @@ var donorsList = [{
 "AMOUNT":"2000"
 }
 ,{
-"SNO":166,
+"SNO":169,
 "TITLE":"Shri.",
 "SURNAME":"Revuri",
 "NAME":"GopalaCharyulu",
@@ -1327,7 +1351,7 @@ var donorsList = [{
 "AMOUNT":"2000"
 }
 ,{
-"SNO":167,
+"SNO":170,
 "TITLE":"Shri.",
 "SURNAME":"",
 "NAME":"G.A.P  Prasad",
@@ -1335,7 +1359,7 @@ var donorsList = [{
 "AMOUNT":"2000"
 }
 ,{
-"SNO":168,
+"SNO":171,
 "TITLE":"Shri.",
 "SURNAME":"",
 "NAME":"G.M Sarath Kumar",
@@ -1343,7 +1367,7 @@ var donorsList = [{
 "AMOUNT":"2000"
 }
 ,{
-"SNO":169,
+"SNO":172,
 "TITLE":"Shri.",
 "SURNAME":"Agnihotram",
 "NAME":"Laxmana Singara Charyulu",
@@ -1351,95 +1375,95 @@ var donorsList = [{
 "AMOUNT":"2,000"
 }
 ,{
-"SNO":170,
+"SNO":173,
 "TITLE":"Shri.",
 "SURNAME":"",
 "NAME":"K.Murali Krishna",
 "PLACE":"Hyderabad",
-"AMOUNT":"1120"
-}
-,{
-"SNO":171,
-"TITLE":"Shri.",
-"SURNAME":"Brindavanam",
-"NAME":"Sri Ramachakravarty",
-"PLACE":"HighCourt Colony",
-"AMOUNT":"1116"
-}
-,{
-"SNO":172,
-"TITLE":"Shri.",
-"SURNAME":"Deevi",
-"NAME":"Vijaya Saradhi",
-"PLACE":"Moulali",
-"AMOUNT":"1116"
-}
-,{
-"SNO":173,
-"TITLE":"Shri.",
-"SURNAME":"Khandavalli",
-"NAME":"Mangacharyulu",
-"PLACE":"Madduru",
-"AMOUNT":"1116"
+"AMOUNT":"1,120"
 }
 ,{
 "SNO":174,
 "TITLE":"Shri.",
-"SURNAME":"Khandavalli",
-"NAME":"Chaitanya",
-"PLACE":"Moulali",
-"AMOUNT":"1116"
+"SURNAME":"Brindavanam",
+"NAME":"Sri Ramachakravarty",
+"PLACE":"HighCourt Colony",
+"AMOUNT":"1,116"
 }
 ,{
 "SNO":175,
 "TITLE":"Shri.",
-"SURNAME":"Peddinti",
-"NAME":"Sarath Chandra ",
-"PLACE":"A.S.Rao Nagar",
-"AMOUNT":"1116"
+"SURNAME":"Deevi",
+"NAME":"Vijaya Saradhi",
+"PLACE":"Moulali",
+"AMOUNT":"1,116"
 }
 ,{
 "SNO":176,
 "TITLE":"Shri.",
-"SURNAME":"Deevi",
-"NAME":"Sridhar",
-"PLACE":"A.S.Rao Nagar",
-"AMOUNT":"1016"
+"SURNAME":"Khandavalli",
+"NAME":"Mangacharyulu",
+"PLACE":"Madduru",
+"AMOUNT":"1,116"
 }
 ,{
 "SNO":177,
 "TITLE":"Shri.",
-"SURNAME":"Pulipaka",
-"NAME":"MuraliKrishna",
-"PLACE":"A.S.Rao Nagar",
-"AMOUNT":"1011"
+"SURNAME":"Khandavalli",
+"NAME":"Chaitanya",
+"PLACE":"Moulali",
+"AMOUNT":"1,116"
 }
 ,{
 "SNO":178,
 "TITLE":"Shri.",
-"SURNAME":"Vadapalli",
-"NAME":"Vijaya Kiran",
-"PLACE":"Vijayapuri Colony",
-"AMOUNT":"1001"
+"SURNAME":"Peddinti",
+"NAME":"Sarath Chandra ",
+"PLACE":"A.S.Rao Nagar",
+"AMOUNT":"1,116"
 }
 ,{
 "SNO":179,
 "TITLE":"Shri.",
-"SURNAME":"",
-"NAME":"K.Ramesh ",
-"PLACE":"Kukatpally",
-"AMOUNT":"1001"
+"SURNAME":"Deevi",
+"NAME":"Sridhar",
+"PLACE":"A.S.Rao Nagar",
+"AMOUNT":"1,016"
 }
 ,{
 "SNO":180,
+"TITLE":"Shri.",
+"SURNAME":"Pulipaka",
+"NAME":"MuraliKrishna",
+"PLACE":"A.S.Rao Nagar",
+"AMOUNT":"1,011"
+}
+,{
+"SNO":181,
+"TITLE":"Shri.",
+"SURNAME":"Vadapalli",
+"NAME":"Vijaya Kiran",
+"PLACE":"Vijayapuri Colony",
+"AMOUNT":"1,001"
+}
+,{
+"SNO":182,
+"TITLE":"Shri.",
+"SURNAME":"",
+"NAME":"K.Ramesh ",
+"PLACE":"Kukatpally",
+"AMOUNT":"1,001"
+}
+,{
+"SNO":183,
 "TITLE":"Smt. Dr.",
 "SURNAME":"",
 "NAME":"Shakthirai Mitra",
 "PLACE":"Kukatpally",
-"AMOUNT":"1001"
+"AMOUNT":"1,001"
 }
 ,{
-"SNO":181,
+"SNO":184,
 "TITLE":"Smt.",
 "SURNAME":"",
 "NAME":"N.Lalitha",
@@ -1447,7 +1471,7 @@ var donorsList = [{
 "AMOUNT":"1,001"
 }
 ,{
-"SNO":182,
+"SNO":185,
 "TITLE":"Shri.",
 "SURNAME":"Govardhanam",
 "NAME":"Trinadh Ramesh ",
@@ -1455,7 +1479,7 @@ var donorsList = [{
 "AMOUNT":"1,000"
 }
 ,{
-"SNO":183,
+"SNO":186,
 "TITLE":"Shri.",
 "SURNAME":"",
 "NAME":"R.Jagannadha Krishnamacharyulu",
@@ -1463,7 +1487,7 @@ var donorsList = [{
 "AMOUNT":"1,000"
 }
 ,{
-"SNO":184,
+"SNO":187,
 "TITLE":"Shri.",
 "SURNAME":"Peddinti",
 "NAME":"Venkata Hygriva Charyulu",
@@ -1471,7 +1495,7 @@ var donorsList = [{
 "AMOUNT":"1,000"
 }
 ,{
-"SNO":185,
+"SNO":188,
 "TITLE":"Shri.",
 "SURNAME":"",
 "NAME":"P.Shobanadri",
@@ -1479,7 +1503,7 @@ var donorsList = [{
 "AMOUNT":"520"
 }
 ,{
-"SNO":186,
+"SNO":189,
 "TITLE":"Shri.",
 "SURNAME":"",
 "NAME":"G.Naaga Venkata Pavan Kumar",
@@ -1487,14 +1511,13 @@ var donorsList = [{
 "AMOUNT":"501"
 }
 ,{
-"SNO":187,
+"SNO":190,
 "TITLE":"Shri.",
 "SURNAME":"",
 "NAME":"Lakshmi Narasimha Charulu",
 "PLACE":"Hyderabad",
 "AMOUNT":"120"
-}
-];
+}];
 
 angular.module('ngTableTutorial', ['ngTable'])
 	.controller('tableController', function ($scope, $filter, ngTableParams) {
