@@ -332,7 +332,7 @@ var directoryList = [{
 "Mobile":9866148950,
 "Email":"pattabhi.g@mahindra.com",
 "Native":"",
-"Address":"404, dhurvani apartment, telephone colony, road no:1, kothapet",
+"Address":"Flat#201, Eternal Towers, Road No 7, Telephone Colony, Kothapet, Hyderabad-500102",
 "Professsion":"Mahindra & mahindra",
 "UserImage":""
 }
@@ -560,25 +560,25 @@ var directoryList = [{
 ,{
 "Sno":44,
 "Name":"Deevi Narsimha Deekshitulu",
-"Father":"",
-"Gotram":"",
+"Father":"Deevi Sriranga Acharyulu",
+"Gotram":"Goutamasa",
 "LandLine":"",
 "Mobile":9959677000,
 "Email":"dndv2011@yahoo.com",
 "Native":"",
-"Address":"plot no:10-50, flat no:114, new gayatri nagar colony, jillelaguda",
+"Address":"plot no:10-50, flat no:114, new gayatri nagar colony, Jillelaguda, Balapur (m), Hyderabad-500097",
 "Professsion":"public relation officer",
 "UserImage":""
 }
 ,{
 "Sno":45,
-"Name":"Deevi Sreeni Vasa Murthy",
-"Father":"",
-"Gotram":"",
+"Name":"Deevi Sreenivasa Murthy",
+"Father":"Late. Deevi Narayana Charyulu",
+"Gotram":"Goutamasa",
 "LandLine":"",
 "Mobile":9908313870,
 "Email":"murti.deevi@gmail.com",
-"Native":"",
+"Native":"Avanigadda",
 "Address":"98/B, Phase-4, New Gayatrinagar, Hyderabad-79",
 "Professsion":"govt.service",
 "UserImage":""
@@ -717,12 +717,12 @@ var directoryList = [{
 "Sno":56,
 "Name":"Peddinti Satyanarayana Charyulu",
 "Father":"",
-"Gotram":"",
+"Gotram":"Bhargavasa",
 "LandLine":"",
 "Mobile":9441110078,
 "Email":"satyanarayanacharyulupeddinti@gmail.com",
-"Native":"",
-"Address":"alwal, surya nagar",
+"Native":"Golakotivari palem, Kothapeta Mandalam",
+"Address":"1-5-507/1/1, plot no. 83, Srinilayam, Surya Nagar, Old Alwal, Hyderabad",
 "Professsion":"private employee laurus labs",
 "UserImage":""
 }
@@ -833,9 +833,9 @@ var directoryList = [{
 ,{
 "Sno":65,
 "Name":"Ganjam Ashok babu",
-"Father":"",
-"Gotram":"",
-"LandLine":"",
+"Father":"Ganjam Venkata LakshmiNarayana Charyulu",
+"Gotram":"Kasyapasa",
+"LandLine":"040-27222112",
 "Mobile":9440916984,
 "Email":"gashokbabu@gmail.com",
 "Native":"",
@@ -864,7 +864,7 @@ var directoryList = [{
 "LandLine":"",
 "Mobile":9908898776,
 "Email":"murty_87@hotmail.com",
-"Native":"Kakinada, East Godavari",
+"Native":"",
 "Address":"plot no:130, V R R Enclave,  Dammmaiguda, secunderabad",
 "Professsion":"Retired teacher",
 "UserImage":"Peddinti_venkata_hygreeva_charyulu.jpg"
@@ -872,7 +872,7 @@ var directoryList = [{
 ,{
 "Sno":68,
 "Name":"Srinivasula ramachandra charyulu",
-"Father":"S Subhadra Charyulul",
+"Father":"Srinivasula Subhadra Charyulu",
 "Gotram":"Kasyapasa",
 "LandLine":"",
 "Mobile":7799882826,
@@ -912,7 +912,7 @@ var directoryList = [{
 "Sno":71,
 "Name":"Agnihotram chiranjeeva charyulu",
 "Father":"",
-"Gotram":"",
+"Gotram":"Aatreyasa",
 "LandLine":"",
 "Mobile":9848741492,
 "Email":"",
@@ -982,7 +982,7 @@ var directoryList = [{
 "Mobile":9966031467,
 "Email":"murty_87@hotmail.com",
 "Native":"Yendamuru, East Godavari",
-"Address":"plot no:130,V R R Enclave, dammmaiguda, secunderabad 500083",
+"Address":"plot no:130, Road No 7, V R R Enclave, dammmaiguda, secunderabad 500083",
 "Professsion":"Analytical head(clearsynth laboratories)",
 "UserImage":"Peddinti_Venkata_Krishna_Murthy.jpg"
 }
@@ -1042,7 +1042,7 @@ var directoryList = [{
 "Sno":81,
 "Name":"Ganjam Anantha SeshaCharyulu",
 "Father":"",
-"Gotram":"",
+"Gotram":"Kasyapasa",
 "LandLine":"",
 "Mobile":9502140219,
 "Email":"gascharya@gmail.com",
@@ -1055,7 +1055,7 @@ var directoryList = [{
 "Sno":82,
 "Name":"Ganjam Pattabhiram (mandali auditor)",
 "Father":"",
-"Gotram":"",
+"Gotram":"Kasyapasa",
 "LandLine":"",
 "Mobile":9848131772,
 "Email":"capattabhiram@gmail.com",
@@ -1107,7 +1107,7 @@ var directoryList = [{
 "Sno":86,
 "Name":"Dr. Ganjam Krishnaprasad",
 "Father":"",
-"Gotram":"",
+"Gotram":"Kasyapasa",
 "LandLine":"",
 "Mobile":9440797630,
 "Email":"charakayarasram@gmail.com",
@@ -2062,6 +2062,474 @@ var directoryList = [{
 "Email":"v.v.kiron@gmial.com",
 "Native":"Hyderabad ",
 "Address":"#139, Blcok-C, Majestic Mansions, Begumpet, Hyderabad-500016",
+"Professsion":"",
+"UserImage":""
+}
+,{
+"Sno":160,
+"Name":"Chivaluri Gopinath",
+"Father":"Late. Chivaluri RangaCharyulu",
+"Gotram":"goutamasa",
+"LandLine":"",
+"Mobile":7382662593,
+"Email":"chivaluri_g@yahoo.com",
+"Native":"",
+"Address":"Hno. 1-7-139/73, SRK Nagar, Musheerabad, Hyderabad-500020",
+"Professsion":"Accounting Freelancer",
+"UserImage":""
+}
+,{
+"Sno":161,
+"Name":"Dr. S V RangaCharyulu",
+"Father":"",
+"Gotram":"",
+"LandLine":"",
+"Mobile":9848622487,
+"Email":"",
+"Native":"",
+"Address":"2-4-226, Road#9A, Behind Community Hall, Snehapuri Colony, Hyderabad-500102",
+"Professsion":"",
+"UserImage":""
+}
+,{
+"Sno":162,
+"Name":"Vedantam Giri Vara Prasad",
+"Father":"Vedantam Suchetram",
+"Gotram":"Aatreyasa",
+"LandLine":"",
+"Mobile":7306824240,
+"Email":"",
+"Native":"",
+"Address":"G4, Sri Sai Residency, Radha Krishna Society, Borabanda, Hyderabad-500018",
+"Professsion":"",
+"UserImage":""
+}
+,{
+"Sno":163,
+"Name":"Rompicherla Srinivasa Deekshitulu",
+"Father":"Rompicherla Manga Charyulu",
+"Gotram":"Bhargavasa",
+"LandLine":"040-27052806",
+"Mobile":9441284834,
+"Email":"",
+"Native":"",
+"Address":"Plot No 47, HNO 13-118/1/1, Sanjay Nagar, Malkajgiri, Hyderabad-500047",
+"Professsion":"",
+"UserImage":""
+}
+,{
+"Sno":164,
+"Name":"Sudarsanam Vamsi Kiran Kumar",
+"Father":"Sudarsanam V S Acharyulu",
+"Gotram":"",
+"LandLine":"",
+"Mobile":9492827299,
+"Email":"",
+"Native":"",
+"Address":"HNO 2-90, Plot No 175, Vijayapuri Residency, Joodimetla, Ghatkesar, RR Dist - 500088",
+"Professsion":"",
+"UserImage":""
+}
+,{
+"Sno":165,
+"Name":"Addepalli Pavan Kumar",
+"Father":"Addepalli Srinivasa Acharyulu",
+"Gotram":"",
+"LandLine":"",
+"Mobile":8978937575,
+"Email":"",
+"Native":"",
+"Address":"HNO 1-2-1/73, Siva Sai Nagar Colony, Budwel, RajendraNagar, Hyderabad-500030",
+"Professsion":"",
+"UserImage":""
+}
+,{
+"Sno":166,
+"Name":"G M B Sarat Kumar",
+"Father":"",
+"Gotram":"",
+"LandLine":"",
+"Mobile":0,
+"Email":"kumargmbs@gmail.com",
+"Native":"",
+"Address":"HNO 5-9-278/11, Rock garden, Yapral, Hyderabad-500087",
+"Professsion":"",
+"UserImage":""
+}
+,{
+"Sno":167,
+"Name":"Kidambi Srinivasa Jayadev",
+"Father":"",
+"Gotram":"",
+"LandLine":"",
+"Mobile":7702324924,
+"Email":"jaykidambi@gmail.com",
+"Native":"",
+"Address":"D-402, D Block, Jai Hind Valley, Manikonda, Beside Delhi Public Of Excellence, Hyderabad-500089",
+"Professsion":"",
+"UserImage":""
+}
+,{
+"Sno":168,
+"Name":"Agnihotram Ramanand",
+"Father":"Late Agnihotram Appalacharyulu",
+"Gotram":"Aatreyasa",
+"LandLine":"",
+"Mobile":7989590340,
+"Email":"ram_agni@hotmail.com",
+"Native":"",
+"Address":"Flat no 406, A Block, Manjeera diamond towers, Gopanpally, Nallagandla, Hyderabad",
+"Professsion":"",
+"UserImage":""
+}
+,{
+"Sno":169,
+"Name":"Deevi Madhusudhana Prasad (DMS Prasad)",
+"Father":"",
+"Gotram":"goutamasa",
+"LandLine":"",
+"Mobile":9491055127,
+"Email":"dmsp_1954@yahoo.com",
+"Native":"",
+"Address":"Flat no 402, Sidhartha Residency, Rajiv Gandhi Nagar, Near Jayadeepika Estates, Bachupally, Hyderabad-500090",
+"Professsion":"",
+"UserImage":""
+}
+,{
+"Sno":170,
+"Name":"Vedantam RadhaKrishnama Charyulu",
+"Father":"",
+"Gotram":"Aatreyasa",
+"LandLine":"",
+"Mobile":9703891045,
+"Email":"vrk.acharyulu@gmail.com",
+"Native":"",
+"Address":"B-324, Mayflower heights, opp. Noma Talkies, Mallapur, Hyderabad-500076",
+"Professsion":"",
+"UserImage":""
+}
+,{
+"Sno":171,
+"Name":"Ganjam Ramesh Babu",
+"Father":"Ganjam Venkata Seshacharyulu",
+"Gotram":"Kasyapasa",
+"LandLine":"",
+"Mobile":8008883366,
+"Email":"rameshganjam@gmail.com",
+"Native":"",
+"Address":"H-292, Site-1, NRR Puram Colony, Borabanda, Hyderabad-500018",
+"Professsion":"",
+"UserImage":""
+}
+,{
+"Sno":172,
+"Name":"Parasaram Alahari SingaraCharyulu",
+"Father":"",
+"Gotram":"",
+"LandLine":"",
+"Mobile":9542463823,
+"Email":"",
+"Native":"Dopallapudi, Guntur(dt)",
+"Address":"B-Block, Flat no 302, May Flower Park Apartment, Mallapur, Hyderabad-500076",
+"Professsion":"",
+"UserImage":""
+}
+,{
+"Sno":173,
+"Name":"Gudipudi SeethaRamaCharyulu",
+"Father":"",
+"Gotram":"Aatreyasa",
+"LandLine":"",
+"Mobile":9885264250,
+"Email":"",
+"Native":"",
+"Address":"6-7-609/140/A, Flat no 102, Annapurna Endure, AnandNagar, Khairtabad, Hyderabad",
+"Professsion":"",
+"UserImage":""
+}
+,{
+"Sno":174,
+"Name":"Rompicherla Gopala Krishna Mohan",
+"Father":"",
+"Gotram":"Bhargavasa",
+"LandLine":"",
+"Mobile":9441831333,
+"Email":"gopala.rompicherla@kotak.com",
+"Native":"",
+"Address":"2-2-1133/4, New Nallakunta, Hyderabad-500044",
+"Professsion":"",
+"UserImage":""
+}
+,{
+"Sno":175,
+"Name":"Gudipudi Kodandaram",
+"Father":"",
+"Gotram":"Aatreyasa",
+"LandLine":"",
+"Mobile":9884052050,
+"Email":"kodandaramg@gmail.com",
+"Native":"Machilipatnam",
+"Address":"E-103, Ceabros, 13-Elvedere, Sholinganallur, Chennai-600119",
+"Professsion":"",
+"UserImage":""
+}
+,{
+"Sno":176,
+"Name":"Gudipudi Aravind Ramu",
+"Father":"Gudipudi SrinivasaCharyulu",
+"Gotram":"Aatreyasa",
+"LandLine":"",
+"Mobile":9885567081,
+"Email":"aravindramug30@gmail.com",
+"Native":"",
+"Address":"Flat no 108, Maple heights, Saket, Kapra, Hyderabad-500062",
+"Professsion":"",
+"UserImage":""
+}
+,{
+"Sno":177,
+"Name":"V S Murali",
+"Father":"",
+"Gotram":"",
+"LandLine":"",
+"Mobile":0,
+"Email":"",
+"Native":"",
+"Address":"3-7-3, Street no 1, Nalanda Nager, Hyderguda, Attapur-500048",
+"Professsion":"",
+"UserImage":""
+}
+,{
+"Sno":178,
+"Name":"Dr. Meduri Venkata Vijaya Saradhi",
+"Father":"",
+"Gotram":"Aatreyasa",
+"LandLine":"",
+"Mobile":9849275094,
+"Email":"meduri.vsd@gmail.com",
+"Native":"",
+"Address":"HNO 5-3/34/73, CCMB Colony, Boduppal, Hyderabad-500092",
+"Professsion":"",
+"UserImage":""
+}
+,{
+"Sno":179,
+"Name":"P RanganathaCharyulu",
+"Father":"",
+"Gotram":"",
+"LandLine":"",
+"Mobile":9490937761,
+"Email":"",
+"Native":"",
+"Address":"Plot no 113, Saipuri, Sainikpuri, Secunderabad-500094",
+"Professsion":"",
+"UserImage":""
+}
+,{
+"Sno":180,
+"Name":"Vadapally SridharaCharyulu",
+"Father":"",
+"Gotram":"goutamasa",
+"LandLine":"",
+"Mobile":7396509893,
+"Email":"",
+"Native":"Bellampudi, Gannavaram, E.Godavari",
+"Address":"Vijaya VenkateswaraSwamy Temple, Samskuti Engineering College, Ghatkesar",
+"Professsion":"",
+"UserImage":""
+}
+,{
+"Sno":181,
+"Name":"Khandavilli Anantha Srikar",
+"Father":"K A N Acharyulu",
+"Gotram":"Bhargavasa",
+"LandLine":"",
+"Mobile":9949477144,
+"Email":"srikar.bma@gmail.com",
+"Native":"",
+"Address":"Plot no 28, Pragathi Nagar, Mansoorabad, Vanasthalipuram, Hyderabad-500028",
+"Professsion":"",
+"UserImage":""
+}
+,{
+"Sno":182,
+"Name":"Sribhashyam Anjaneyulu",
+"Father":"S Lakshmana Charyulu",
+"Gotram":"goutamasa",
+"LandLine":"",
+"Mobile":9849123448,
+"Email":"",
+"Native":"vetapelam, tenali",
+"Address":"5-5-287, Prashant Nagar, Vanasthalipuram, Hyderabad-500070",
+"Professsion":"",
+"UserImage":""
+}
+,{
+"Sno":183,
+"Name":"Pedapudi SeshaCharyulu",
+"Father":"P GopalaCharyulu",
+"Gotram":"Aatreyasa",
+"LandLine":"",
+"Mobile":0,
+"Email":"",
+"Native":"Yedidha, East Godavari",
+"Address":"Hno. 1-95/A/7, VeeraReddy Nagar, Boduppal, Hyderabad-500092",
+"Professsion":"",
+"UserImage":""
+}
+,{
+"Sno":184,
+"Name":"Nalluri Srimannarayana Charyulu",
+"Father":"Late N Pardhasaradhi Charyulu",
+"Gotram":"goutamasa",
+"LandLine":"",
+"Mobile":8008406644,
+"Email":"srimannarayana_n@yahoo.com",
+"Native":"Cherukuru, Parachuru Mandal, Prakasam district",
+"Address":"Hno. 41-125/28/A, East Pragathi Nagar, Moulali, Hyderabad-500040",
+"Professsion":"",
+"UserImage":""
+}
+,{
+"Sno":185,
+"Name":"Vedantham Srinivasa Pavan Kumar",
+"Father":"V L K S S BhattaCharyulu",
+"Gotram":"goutamasa",
+"LandLine":"",
+"Mobile":9866583665,
+"Email":"pavansrinivas@gmail.com",
+"Native":"Tenali, Guntur",
+"Address":"Flat no. 206, B-Block, MytriHomes, Madinaguda, Miyapur, Hyderabad-500049",
+"Professsion":"",
+"UserImage":""
+}
+,{
+"Sno":186,
+"Name":"Rompicherla Mohana Gopala Krishnamacharyulu",
+"Father":"",
+"Gotram":"Bhargavasa",
+"LandLine":"040-27031918",
+"Mobile":9866889293,
+"Email":"rmgkacharyulu@gmail.com",
+"Native":"Vijayawada",
+"Address":"3-10-102/A/2, Gokhale Nagar, Ramanthapuram, Hyderabad-500013",
+"Professsion":"",
+"UserImage":""
+}
+,{
+"Sno":187,
+"Name":"Ganjam Neela Anantha ParthaSaradhi Deekshitulu",
+"Father":"G Srinivasa Charyulu",
+"Gotram":"",
+"LandLine":"",
+"Mobile":0,
+"Email":"",
+"Native":"Machilipatnam",
+"Address":"Hno. 5-12-186/3, APHB Colony, Hyderabad-500840",
+"Professsion":"",
+"UserImage":""
+}
+,{
+"Sno":188,
+"Name":"Rakuditi Venkata Prasad",
+"Father":"",
+"Gotram":"",
+"LandLine":"",
+"Mobile":8247095927,
+"Email":"",
+"Native":"",
+"Address":"MN Reddy Nagar, Near Bank Colony, Hyderabad-500067",
+"Professsion":"",
+"UserImage":""
+}
+,{
+"Sno":189,
+"Name":"Peddinti SatyaRamesh",
+"Father":"",
+"Gotram":"",
+"LandLine":"",
+"Mobile":9966029563,
+"Email":"psramesh2864@yahoo.com",
+"Native":"",
+"Address":"Plot No. 136, Bank Colony, Road no. 7, Suchitra Circle, Qutbullapur Mandal, Hyderabad - 500067",
+"Professsion":"",
+"UserImage":""
+}
+,{
+"Sno":190,
+"Name":"Angara VenkataCharyulu",
+"Father":"",
+"Gotram":"",
+"LandLine":"",
+"Mobile":9393583450,
+"Email":"av_charyulu@yahoo.co.in",
+"Native":"",
+"Address":"Plot no. 50, Hno. 6-204/6, Boudha Nagar Colony, Suchitra Circle post, Hyderabad - 500067",
+"Professsion":"",
+"UserImage":""
+}
+,{
+"Sno":191,
+"Name":"B RadhaKrishnamaCharyulu",
+"Father":"",
+"Gotram":"",
+"LandLine":"",
+"Mobile":9849611768,
+"Email":"",
+"Native":"",
+"Address":"Flat no. 103, Road no. 14, Sardar Patel nagar, Nijampet, Hyderabad - 500085",
+"Professsion":"",
+"UserImage":""
+}
+,{
+"Sno":192,
+"Name":"B Venkata Charyulu",
+"Father":"",
+"Gotram":"",
+"LandLine":"",
+"Mobile":9963959212,
+"Email":"",
+"Native":"",
+"Address":"Jegurupadu, Kadium mandal",
+"Professsion":"",
+"UserImage":""
+}
+,{
+"Sno":193,
+"Name":"P Pundarikaksha ayyengar",
+"Father":"",
+"Gotram":"",
+"LandLine":"8639756060",
+"Mobile":9951164115,
+"Email":"",
+"Native":"",
+"Address":"Gachibowli, Hyderabad",
+"Professsion":"",
+"UserImage":""
+}
+,{
+"Sno":194,
+"Name":"Chakravartula Sreenivas",
+"Father":"",
+"Gotram":"",
+"LandLine":"",
+"Mobile":0,
+"Email":"",
+"Native":"",
+"Address":"Street no. 4, Bhavani Nagar, Nacharam",
+"Professsion":"",
+"UserImage":""
+}
+,{
+"Sno":195,
+"Name":"Devayajanam RamakrishnamaCharyulu",
+"Father":"",
+"Gotram":"",
+"LandLine":"",
+"Mobile":9703003944,
+"Email":"venkatsai.209@gmail.com",
+"Native":"",
+"Address":"Kothapet, Hyderabad",
 "Professsion":"",
 "UserImage":""
 }
