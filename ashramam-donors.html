@@ -70,7 +70,7 @@
     <main>
 
         <section class="well7 bg-primary">
-            <div class="container">
+            <div class="container" ng-controller="tableController">
                 <div class="row">
                     <div class="col-md-12 col-sm-12 col-xs-12">
                         <h2>
@@ -81,15 +81,38 @@
                             Following are the list of donors who helped us in realizing our dream of building our own “Sri Vaikhanasa Ashramam” at Hyderabad. 
                         </p>
                         <br/>
-                        <div ng-controller="tableController">
+                        <div>
                             <table ng-table="usersTable" show-filter="true" class="table table-striped table-hover table-bordered">
-                               <tr ng-repeat="user in data | filter:getFullName">
+                               <tr ng-repeat="user in userdata | filter:getFullName">
                                    <td data-title="'SNO'" sortable="'SNO'" ng-bind='user.SNO'></td>
                                    <td data-title="'NAME'" filter="{ 'fullName': 'text' }" ng-bind='user.fullName'></td>
                                    <td data-title="'PLACE'" filter="{ 'PLACE': 'text' }" ng-bind='user.PLACE'></td>    
                                    <td data-title="'AMOUNT'" filter="{ 'AMOUNT': 'text' }" ng-bind='user.AMOUNT'></td>
                                </tr>
                             </table>
+                        </div>
+                        <br/><br/>
+                        <div>
+                            <p>
+                                <b>Following are the items that are donated to SriVikhanasramam, Hyderabad</b>
+                            </p>
+                            <br/>
+                            <div>
+                                <table ng-table="itemsTable" show-filter="true" class="table table-striped table-hover table-bordered">
+                                   <tr ng-repeat="item in itemdata | filter:getFullName">
+                                       <td data-title="'SNO'" sortable="'SNO'" ng-bind='item.SNO'></td>
+                                       <td data-title="'NAME'" filter="{ 'fullName': 'text' }" ng-bind='item.fullName'></td>
+                                       <td data-title="'PLACE'" filter="{ 'PLACE': 'text' }" ng-bind='item.PLACE'></td>    
+                                       <td data-title="'ITEM'" filter="{ 'ITEM': 'text' }" ng-bind='item.ITEM'></td>
+                                       <td data-title="'IMG'"><img ng-src="{{item.IMG}}" style="width:50px;height: 50px;" ng-click="showImage(item.IMG, item.ITEM)" alt="{{item.ITEM}}" /></td>
+                                   </tr>                            
+                                </table>
+                            </div>
+                        </div>
+                        <div id="myModal" class="modal">
+                          <span class="close" id="close01" ng-click="closeFunction()">&times;</span>
+                          <img class="modal-content" id="img01">
+                          <div id="caption"></div>
                         </div>
                     </div>
                 </div>

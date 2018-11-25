@@ -34,3 +34,12 @@ D:\Seshu\VaikhanasaSite\ManaVaikhanasam\ConfigurationApp\ConfigurationApp\obj\De
 D:\Seshu\VaikhanasaSite\ManaVaikhanasam\ConfigurationApp\ConfigurationApp\obj\Debug\ConfigurationApp.Form1.resources
 D:\Seshu\VaikhanasaSite\ManaVaikhanasam\ConfigurationApp\ConfigurationApp\obj\Debug\ConfigurationApp.Properties.Resources.resources
 D:\Seshu\VaikhanasaSite\ManaVaikhanasam\ConfigurationApp\ConfigurationApp\obj\Debug\ConfigurationApp.csproj.GenerateResource.Cache
+D:\Seshu\Projects\ManaVaikhanasam\ConfigurationApp\ConfigurationApp\bin\Debug\ConfigurationApp.exe.config
+D:\Seshu\Projects\ManaVaikhanasam\ConfigurationApp\ConfigurationApp\bin\Debug\ConfigurationApp.exe
+D:\Seshu\Projects\ManaVaikhanasam\ConfigurationApp\ConfigurationApp\bin\Debug\ConfigurationApp.pdb
+D:\Seshu\Projects\ManaVaikhanasam\ConfigurationApp\ConfigurationApp\obj\Debug\ConfigurationApp.csprojResolveAssemblyReference.cache
+D:\Seshu\Projects\ManaVaikhanasam\ConfigurationApp\ConfigurationApp\obj\Debug\ConfigurationApp.Form1.resources
+D:\Seshu\Projects\ManaVaikhanasam\ConfigurationApp\ConfigurationApp\obj\Debug\ConfigurationApp.Properties.Resources.resources
+D:\Seshu\Projects\ManaVaikhanasam\ConfigurationApp\ConfigurationApp\obj\Debug\ConfigurationApp.csproj.GenerateResource.Cache
+D:\Seshu\Projects\ManaVaikhanasam\ConfigurationApp\ConfigurationApp\obj\Debug\ConfigurationApp.exe
+D:\Seshu\Projects\ManaVaikhanasam\ConfigurationApp\ConfigurationApp\obj\Debug\ConfigurationApp.pdb

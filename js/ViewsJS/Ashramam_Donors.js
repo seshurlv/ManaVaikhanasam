@@ -1567,28 +1567,102 @@ var donorsList = [{
 "AMOUNT":"120"
 }];
 
+
+var itemsList = [{
+	"SNO": 1,
+	"TITLE": "Shri.",
+	"SURNAME": "Ganjam",
+	"NAME": "Ashok Babu",
+	"PLACE": "Hyderabad",
+	"ITEM": "200 - Drinking Steel Glasses, 75 - Steel Coffee Glasses",
+	"IMG": "images/Ashramam/glasses.jpg"
+},
+{
+	"SNO": 2,
+	"TITLE": "Shri.",
+	"SURNAME": "Deevi",
+	"NAME": "Madhusudhan Prasad",
+	"PLACE": "Hyderabad",
+	"ITEM": "150 - Steel Lunch Plates, 4 - Steel Dishes, 3 - Steel Buckets",
+	"IMG": "images/Ashramam/platesanddishes.jpg"
+},
+{
+	"SNO": 3,
+	"TITLE": "Shri.",
+	"SURNAME": "Deevi",
+	"NAME": "Yogananda Narasimha Deekshitulu",
+	"PLACE": "Hyderabad",
+	"ITEM": "9 - Aluminium Big Vessels with Covering Plates",
+	"IMG": "images/Ashramam/Vessels.jpg"
+},
+{
+	"SNO": 4,
+	"TITLE": "Shri.",
+	"SURNAME": "Deevi",
+	"NAME": "Srinivasa Murthy",
+	"PLACE": "Hyderabad",
+	"ITEM": "Big Stove (2 Burner)",
+	"IMG": "images/Ashramam/stove.jpg"		
+}];
+
 angular.module('ngTableTutorial', ['ngTable'])
 	.controller('tableController', function ($scope, $filter, ngTableParams) {
 
-		$scope.users = donorsList;            
+		$scope.users = donorsList;        
+		var modal = angular.element("#myModal")[0];
+		var modalImg = angular.element("#img01")[0];
+		var captionText = angular.element("#caption")[0];    
 
 		$scope.usersTable = new ngTableParams({
 				page: 1,
-				count: 1000
+				count: 10
 			}, {
 				total: $scope.users.length, 
 				getData: function ($defer, params) {
-				  params.settings().counts = [];                        
-				  $scope.data = params.sorting() ? $filter('orderBy')($scope.users, params.orderBy()) : $scope.users;
-				  $scope.data = params.filter() ? $filter('filter')($scope.data, params.filter()) : $scope.data;
-				  $scope.data = $scope.data.slice((params.page() - 1) * params.count(), params.page() * params.count());
-				  params.page(1);                      
-				  $defer.resolve($scope.data);
+				  //params.settings().counts = [];                        
+				  //$scope.data = params.sorting() ? $filter('orderBy')($scope.users, params.orderBy()) : $scope.users;
+				  $scope.userdata = params.filter() ? $filter('filter')($scope.users, params.filter()) : $scope.users;
+				  $scope.userdata = $scope.userdata.slice((params.page() - 1) * params.count(), params.page() * params.count());
+				  //params.page(1);                      
+				  $defer.resolve($scope.userdata);
 				}
 			});
 
 		$scope.getFullName = function(user) {
 		   return user.fullName = user.TITLE + ' ' + user.SURNAME + ' ' + user.NAME;
 		};
+
+		$scope.showImage = function(imgUrl, imgString) {
+		    
+		    modal.style.display = "block";
+    		modalImg.src = imgUrl;
+    		captionText.innerHTML = imgString;
+		};
+
+		$scope.items = itemsList;
+
+		$scope.itemsTable = new ngTableParams({
+				page: 1,
+				count: 10
+			}, {
+				total: $scope.items.length, 
+				getData: function ($defer, params) {
+				  //params.settings().counts = [];                        
+				  //$scope.data = params.sorting() ? $filter('orderBy')($scope.users, params.orderBy()) : $scope.users;
+				  $scope.itemdata = params.filter() ? $filter('filter')($scope.items, params.filter()) : $scope.items;
+				  $scope.itemdata = $scope.itemdata.slice((params.page() - 1) * params.count(), params.page() * params.count());
+				  //params.page(1);                      
+				  $defer.resolve($scope.itemdata);
+				}
+			});
+
+		// Get the <span> element that closes the modal
+		var span = angular.element("close01")[0];
+
+		// When the user clicks on <span> (x), close the modal
+		$scope.closeFunction = function() { 
+		    modal.style.display = "none";
+		}
+
 	});
 
