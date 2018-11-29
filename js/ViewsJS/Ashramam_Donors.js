@@ -1603,6 +1603,15 @@ var itemsList = [{
 	"PLACE": "Hyderabad",
 	"ITEM": "Big Stove (2 Burner)",
 	"IMG": "images/Ashramam/stove.jpg"		
+},
+{
+	"SNO": 5,
+	"TITLE": "Shri.",
+	"SURNAME": "Agnihotram",
+	"NAME": "Ramanand",
+	"PLACE": "Hyderabad",
+	"ITEM": "10 - Buckets, 10 - Jugs",
+	"IMG": "images/Ashramam/bucketsandjugs.jpg"		
 }];
 
 angular.module('ngTableTutorial', ['ngTable'])
