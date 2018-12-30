@@ -83,13 +83,15 @@
                         <br/>
                         <div>
                             <table ng-table="usersTable" show-filter="true" class="table table-striped table-hover table-bordered">
-                               <tr ng-repeat="user in userdata | filter:getFullName">
+                               <tr ng-repeat="user in userdata" ng-init="getAshramDonorsFullName(user)">
                                    <td data-title="'SNO'" sortable="'SNO'" ng-bind='user.SNO'></td>
-                                   <td data-title="'NAME'" filter="{ 'fullName': 'text' }" ng-bind='user.fullName'></td>
+                                   <td data-title="'NAME'" filter="{ 'userFullName': 'text' }" ng-bind='user.userFullName'></td>
                                    <td data-title="'PLACE'" filter="{ 'PLACE': 'text' }" ng-bind='user.PLACE'></td>    
                                    <td data-title="'AMOUNT'" filter="{ 'AMOUNT': 'text' }" ng-bind='user.AMOUNT'></td>
+                                   <td data-title="'DATE'" filter="{ 'DATE': 'text' }" ng-bind='user.DATE'></td>
+                                   <td data-title="'RECEIPT NO'" filter="{ 'RECEIPT': 'text' }" ng-bind='user.RECEIPT'></td>
                                </tr>
-                            </table>
+                            </table>    
                         </div>
                         <br/><br/>
                         <div>
@@ -99,9 +101,9 @@
                             <br/>
                             <div>
                                 <table ng-table="itemsTable" show-filter="true" class="table table-striped table-hover table-bordered">
-                                   <tr ng-repeat="item in itemdata | filter:getFullName">
+                                   <tr ng-repeat="item in itemdata" ng-init="getItemDonorsFullName(item)">
                                        <td data-title="'SNO'" sortable="'SNO'" ng-bind='item.SNO'></td>
-                                       <td data-title="'NAME'" filter="{ 'fullName': 'text' }" ng-bind='item.fullName'></td>
+                                       <td data-title="'NAME'" filter="{ 'itemFullName': 'text' }" ng-bind='item.itemFullName'></td>
                                        <td data-title="'PLACE'" filter="{ 'PLACE': 'text' }" ng-bind='item.PLACE'></td>    
                                        <td data-title="'ITEM'" filter="{ 'ITEM': 'text' }" ng-bind='item.ITEM'></td>
                                        <td data-title="'IMG'"><img ng-src="{{item.IMG}}" style="width:50px;height: 50px;" ng-click="showImage(item.IMG, item.ITEM)" alt="{{item.ITEM}}" /></td>

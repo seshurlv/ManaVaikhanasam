@@ -39,34 +39,35 @@
             this.contextMenuStrip2 = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.btn_UploadPurohita = new System.Windows.Forms.Button();
             this.btnYaagnikam = new System.Windows.Forms.Button();
+            this.btnAshramamItems = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(46, 95);
+            this.label1.Location = new System.Drawing.Point(41, 76);
             this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(206, 20);
+            this.label1.Size = new System.Drawing.Size(184, 17);
             this.label1.TabIndex = 0;
             this.label1.Text = "Enter The RAW Json Here :";
             // 
             // txtRawJson
             // 
-            this.txtRawJson.Location = new System.Drawing.Point(266, 37);
-            this.txtRawJson.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.txtRawJson.Location = new System.Drawing.Point(236, 30);
+            this.txtRawJson.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.txtRawJson.Multiline = true;
             this.txtRawJson.Name = "txtRawJson";
-            this.txtRawJson.Size = new System.Drawing.Size(1280, 144);
+            this.txtRawJson.Size = new System.Drawing.Size(1138, 116);
             this.txtRawJson.TabIndex = 1;
             this.txtRawJson.TextChanged += new System.EventHandler(this.txtRawJson_TextChanged);
             // 
             // btnPrepJson
             // 
-            this.btnPrepJson.Location = new System.Drawing.Point(967, 227);
-            this.btnPrepJson.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btnPrepJson.Location = new System.Drawing.Point(1179, 175);
+            this.btnPrepJson.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnPrepJson.Name = "btnPrepJson";
-            this.btnPrepJson.Size = new System.Drawing.Size(219, 51);
+            this.btnPrepJson.Size = new System.Drawing.Size(195, 41);
             this.btnPrepJson.TabIndex = 2;
             this.btnPrepJson.Text = "Prepare My JSON";
             this.btnPrepJson.UseVisualStyleBackColor = true;
@@ -79,10 +80,10 @@
             // 
             // btnUploadExcel
             // 
-            this.btnUploadExcel.Location = new System.Drawing.Point(266, 235);
-            this.btnUploadExcel.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btnUploadExcel.Location = new System.Drawing.Point(236, 188);
+            this.btnUploadExcel.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnUploadExcel.Name = "btnUploadExcel";
-            this.btnUploadExcel.Size = new System.Drawing.Size(183, 35);
+            this.btnUploadExcel.Size = new System.Drawing.Size(163, 28);
             this.btnUploadExcel.TabIndex = 3;
             this.btnUploadExcel.Text = "Upload Directory Excel";
             this.btnUploadExcel.UseVisualStyleBackColor = true;
@@ -96,10 +97,10 @@
             // 
             // richTextBox1
             // 
-            this.richTextBox1.Location = new System.Drawing.Point(266, 314);
-            this.richTextBox1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.richTextBox1.Location = new System.Drawing.Point(236, 251);
+            this.richTextBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.richTextBox1.Name = "richTextBox1";
-            this.richTextBox1.Size = new System.Drawing.Size(1280, 415);
+            this.richTextBox1.Size = new System.Drawing.Size(1138, 333);
             this.richTextBox1.TabIndex = 5;
             this.richTextBox1.Text = "";
             // 
@@ -111,10 +112,10 @@
             // 
             // btn_UploadPurohita
             // 
-            this.btn_UploadPurohita.Location = new System.Drawing.Point(457, 235);
-            this.btn_UploadPurohita.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btn_UploadPurohita.Location = new System.Drawing.Point(836, 188);
+            this.btn_UploadPurohita.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btn_UploadPurohita.Name = "btn_UploadPurohita";
-            this.btn_UploadPurohita.Size = new System.Drawing.Size(178, 35);
+            this.btn_UploadPurohita.Size = new System.Drawing.Size(158, 28);
             this.btn_UploadPurohita.TabIndex = 6;
             this.btn_UploadPurohita.Text = "Upload Aparam Excel";
             this.btn_UploadPurohita.UseVisualStyleBackColor = true;
@@ -122,21 +123,32 @@
             // 
             // btnYaagnikam
             // 
-            this.btnYaagnikam.Location = new System.Drawing.Point(643, 235);
-            this.btnYaagnikam.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.btnYaagnikam.Location = new System.Drawing.Point(1013, 188);
+            this.btnYaagnikam.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.btnYaagnikam.Name = "btnYaagnikam";
-            this.btnYaagnikam.Size = new System.Drawing.Size(178, 35);
+            this.btnYaagnikam.Size = new System.Drawing.Size(158, 28);
             this.btnYaagnikam.TabIndex = 7;
             this.btnYaagnikam.Text = "Upload Yaagnikam Excel";
             this.btnYaagnikam.TextImageRelation = System.Windows.Forms.TextImageRelation.TextBeforeImage;
             this.btnYaagnikam.UseVisualStyleBackColor = true;
             this.btnYaagnikam.Click += new System.EventHandler(this.btnYaagnikam_Click);
             // 
+            // btnAshramamItems
+            // 
+            this.btnAshramamItems.Location = new System.Drawing.Point(407, 188);
+            this.btnAshramamItems.Name = "btnAshramamItems";
+            this.btnAshramamItems.Size = new System.Drawing.Size(163, 27);
+            this.btnAshramamItems.TabIndex = 8;
+            this.btnAshramamItems.Text = "Upload Ashram Items";
+            this.btnAshramamItems.UseVisualStyleBackColor = true;
+            this.btnAshramamItems.Click += new System.EventHandler(this.btnAshramamItems_Click);
+            // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1608, 788);
+            this.ClientSize = new System.Drawing.Size(1429, 630);
+            this.Controls.Add(this.btnAshramamItems);
             this.Controls.Add(this.btnYaagnikam);
             this.Controls.Add(this.btn_UploadPurohita);
             this.Controls.Add(this.richTextBox1);
@@ -144,7 +156,7 @@
             this.Controls.Add(this.btnPrepJson);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.txtRawJson);
-            this.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "Form1";
             this.Text = "Form1";
             this.ResumeLayout(false);
@@ -164,6 +176,7 @@
         private System.Windows.Forms.ContextMenuStrip contextMenuStrip2;
         private System.Windows.Forms.Button btn_UploadPurohita;
         private System.Windows.Forms.Button btnYaagnikam;
+        private System.Windows.Forms.Button btnAshramamItems;
     }
 }
 
