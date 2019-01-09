@@ -10,10 +10,10 @@ var donorsList = [{
 }
 ,{
 "SNO":"2",
-"TITLE":"Smt.",
-"SURNAME":"Pedapudi",
+"TITLE":"Kum.",
+"SURNAME":"Peddinti",
 "NAME":"SuryaVarchasvi d/o P Gopala Charyulu",
-"PLACE":"Boduppal",
+"PLACE":"SankarNagar",
 "AMOUNT":"330000",
 "DATE":"",
 "RECEIPT":""
@@ -441,6 +441,26 @@ var donorsList = [{
 ,{
 "SNO":"45",
 "TITLE":"Shri.",
+"SURNAME":"Deevi",
+"NAME":"S V L NarasimhaCharyulu",
+"PLACE":"Alwal",
+"AMOUNT":"20000",
+"DATE":"",
+"RECEIPT":""
+}
+,{
+"SNO":"46",
+"TITLE":"Shri.",
+"SURNAME":"Gudipudi",
+"NAME":"Seetharamacharyulu",
+"PLACE":"Khairthabad",
+"AMOUNT":"20000",
+"DATE":"",
+"RECEIPT":""
+}
+,{
+"SNO":"47",
+"TITLE":"Shri.",
 "SURNAME":"Khandavalli",
 "NAME":"Venkata Ramana Murthy",
 "PLACE":"Gajularamaaram",
@@ -449,7 +469,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"46",
+"SNO":"48",
 "TITLE":"Shri.",
 "SURNAME":"Agnihotram",
 "NAME":"Sreerama Chakravarty, Lakshmana Kumar and Venugopal",
@@ -459,7 +479,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"47",
+"SNO":"49",
 "TITLE":"Shri.",
 "SURNAME":"Agnihotram",
 "NAME":"Krishna Kishore",
@@ -469,7 +489,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"48",
+"SNO":"50",
 "TITLE":"Shri.",
 "SURNAME":"Vedantam",
 "NAME":"RamaKrishna",
@@ -479,7 +499,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"49",
+"SNO":"51",
 "TITLE":"Shri.",
 "SURNAME":"Deevi",
 "NAME":"Srinivas ",
@@ -489,7 +509,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"50",
+"SNO":"52",
 "TITLE":"Shri.",
 "SURNAME":"Agnihotram",
 "NAME":"AppalaCharyulu",
@@ -499,7 +519,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"51",
+"SNO":"53",
 "TITLE":"Shri.",
 "SURNAME":"Vedantam",
 "NAME":"Radha Krishnamacharyulu",
@@ -509,7 +529,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"52",
+"SNO":"54",
 "TITLE":"Shri.",
 "SURNAME":"Deevi",
 "NAME":"Venkataramana",
@@ -519,7 +539,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"53",
+"SNO":"55",
 "TITLE":"Shri.",
 "SURNAME":"Sribhashyam",
 "NAME":"Ramakrishna",
@@ -529,7 +549,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"54",
+"SNO":"56",
 "TITLE":"Shri.",
 "SURNAME":"",
 "NAME":"S.Prasada Charyulu & Bros",
@@ -539,7 +559,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"55",
+"SNO":"57",
 "TITLE":"Shri.",
 "SURNAME":"Nalluri",
 "NAME":"Dasaradha Srinivasa Deekshithulu",
@@ -549,7 +569,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"56",
+"SNO":"58",
 "TITLE":"Shri.",
 "SURNAME":"Srinivasula",
 "NAME":"Subhadhracharyulu",
@@ -559,7 +579,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"57",
+"SNO":"59",
 "TITLE":"Smt.",
 "SURNAME":"Deevi",
 "NAME":"Rajyalakshmi",
@@ -569,7 +589,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"58",
+"SNO":"60",
 "TITLE":"Shri.",
 "SURNAME":"Vedantam",
 "NAME":"Hari Srinivasa Deekshitulu",
@@ -579,7 +599,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"59",
+"SNO":"61",
 "TITLE":"Shri.",
 "SURNAME":"Deevi",
 "NAME":"V V Ramakrishnama Charyulu",
@@ -589,7 +609,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"60",
+"SNO":"62",
 "TITLE":"Shri.",
 "SURNAME":"Muttevi",
 "NAME":"LeelaKrishna",
@@ -599,7 +619,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"61",
+"SNO":"63",
 "TITLE":"Shri.",
 "SURNAME":"Deevi",
 "NAME":"VenkataLakshmi",
@@ -609,7 +629,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"62",
+"SNO":"64",
 "TITLE":"Shri.",
 "SURNAME":"Deevi",
 "NAME":"Venu Madhav",
@@ -619,7 +639,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"63",
+"SNO":"65",
 "TITLE":"Shri.",
 "SURNAME":"Govardhanam",
 "NAME":"Pattabhirama charyulu ",
@@ -629,7 +649,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"64",
+"SNO":"66",
 "TITLE":"Shri.",
 "SURNAME":"Deevi",
 "NAME":"Tushara & Havisha in Memory of their Father late Deevi Lakshmi Narasimha chrayulu",
@@ -639,7 +659,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"65",
+"SNO":"67",
 "TITLE":"Shri.",
 "SURNAME":"Peddinti",
 "NAME":"Bhaskara Murty ",
@@ -649,7 +669,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"66",
+"SNO":"68",
 "TITLE":"Shri.",
 "SURNAME":"",
 "NAME":"S.V.Rangacharyulu",
@@ -659,7 +679,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"67",
+"SNO":"69",
 "TITLE":"Shri.",
 "SURNAME":"Parasaram",
 "NAME":"AlahaSingaracharyulu",
@@ -669,7 +689,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"68",
+"SNO":"70",
 "TITLE":"Shri.",
 "SURNAME":"Tamirisa",
 "NAME":"Vikhanasacharyulu",
@@ -679,7 +699,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"69",
+"SNO":"71",
 "TITLE":"Shri.",
 "SURNAME":"Srinivasula",
 "NAME":"Srinivasula Deekshitulu",
@@ -689,7 +709,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"70",
+"SNO":"72",
 "TITLE":"Shri.",
 "SURNAME":"Deevi",
 "NAME":"S Bhishak",
@@ -699,7 +719,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"71",
+"SNO":"73",
 "TITLE":"Smt.",
 "SURNAME":"Vedantam",
 "NAME":"Sita",
@@ -709,7 +729,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"72",
+"SNO":"74",
 "TITLE":"Shri.",
 "SURNAME":"Deevi",
 "NAME":"Srinivas ",
@@ -719,7 +739,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"73",
+"SNO":"75",
 "TITLE":"Shri.",
 "SURNAME":"Attili",
 "NAME":"Gopala krishnamacharyulu",
@@ -729,7 +749,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"74",
+"SNO":"76",
 "TITLE":"Shri.",
 "SURNAME":"Peddinti",
 "NAME":"Rajagopal",
@@ -739,7 +759,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"75",
+"SNO":"77",
 "TITLE":"Shri.",
 "SURNAME":"Deevi",
 "NAME":"Tandava Krishna Murthy",
@@ -749,7 +769,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"76",
+"SNO":"78",
 "TITLE":"Shri.",
 "SURNAME":"Vedantam",
 "NAME":"Srinivasa Murty",
@@ -759,7 +779,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"77",
+"SNO":"79",
 "TITLE":"Smt.",
 "SURNAME":"Deevi",
 "NAME":"Lakshmi Kantam",
@@ -769,17 +789,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"78",
-"TITLE":"Shri.",
-"SURNAME":"Deevi",
-"NAME":"S V L NarasimhaCharyulu",
-"PLACE":"Alwal",
-"AMOUNT":"10000",
-"DATE":"",
-"RECEIPT":""
-}
-,{
-"SNO":"79",
+"SNO":"80",
 "TITLE":"Shri.",
 "SURNAME":"Agnihotram",
 "NAME":"A V RaghavaCharyulu",
@@ -789,7 +799,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"80",
+"SNO":"81",
 "TITLE":"Smt.",
 "SURNAME":"Vedantam",
 "NAME":"Devaki Devi & SreenivasaMurty",
@@ -799,7 +809,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"81",
+"SNO":"82",
 "TITLE":"Shri.",
 "SURNAME":"Ganjam",
 "NAME":"G A SeshaCharyulu",
@@ -809,7 +819,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"82",
+"SNO":"83",
 "TITLE":"Shri.",
 "SURNAME":"Brindavanam",
 "NAME":"V N A Vedadri ",
@@ -819,7 +829,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"83",
+"SNO":"84",
 "TITLE":"Shri.",
 "SURNAME":"Rompicherla",
 "NAME":"V BharataCharyulu",
@@ -829,7 +839,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"84",
+"SNO":"85",
 "TITLE":"Shri.",
 "SURNAME":"Agnihotram",
 "NAME":"Lakshmi NarasimhaCharyulu ",
@@ -839,7 +849,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"85",
+"SNO":"86",
 "TITLE":"Shri.",
 "SURNAME":"Tamirisa",
 "NAME":"V L N Acharyulu ",
@@ -849,7 +859,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"86",
+"SNO":"87",
 "TITLE":"Shri.",
 "SURNAME":"Peddinti",
 "NAME":"GopalaKrishna",
@@ -859,7 +869,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"87",
+"SNO":"88",
 "TITLE":"Shri.",
 "SURNAME":"Vedantam",
 "NAME":"ChandraMohan Srinivas ",
@@ -869,7 +879,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"88",
+"SNO":"89",
 "TITLE":"Shri.",
 "SURNAME":"Agnihotram",
 "NAME":"Krishna Prasad",
@@ -879,7 +889,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"89",
+"SNO":"90",
 "TITLE":"Shri.",
 "SURNAME":"Agnihotram",
 "NAME":"HarinarayanaCharyulu",
@@ -889,7 +899,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"90",
+"SNO":"91",
 "TITLE":"Shri.",
 "SURNAME":"Vedantam",
 "NAME":"MadhavaCharyulu ",
@@ -899,7 +909,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"91",
+"SNO":"92",
 "TITLE":"Shri.",
 "SURNAME":"Rompicherla",
 "NAME":"Muralikrishna",
@@ -909,7 +919,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"92",
+"SNO":"93",
 "TITLE":"Shri.",
 "SURNAME":"Brindavanam",
 "NAME":"Venkata Venugopalacharyulu",
@@ -919,7 +929,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"93",
+"SNO":"94",
 "TITLE":"Shri.",
 "SURNAME":"Kallagunta",
 "NAME":"V Raghurama Murty",
@@ -929,7 +939,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"94",
+"SNO":"95",
 "TITLE":"Shri.",
 "SURNAME":"Vedantam",
 "NAME":"Satyanarayana Kumar",
@@ -939,21 +949,11 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"95",
+"SNO":"96",
 "TITLE":"Shri.",
 "SURNAME":"Govardhanam",
 "NAME":"Narasimha Murty",
 "PLACE":"Hydershakotla",
-"AMOUNT":"10000",
-"DATE":"",
-"RECEIPT":""
-}
-,{
-"SNO":"96",
-"TITLE":"Shri.",
-"SURNAME":"",
-"NAME":"G.SeetharamaaCharyulu",
-"PLACE":"Khairthabad",
 "AMOUNT":"10000",
 "DATE":"",
 "RECEIPT":""
@@ -1131,16 +1131,6 @@ var donorsList = [{
 ,{
 "SNO":"114",
 "TITLE":"Shri.",
-"SURNAME":"Gudipudi",
-"NAME":"Seetharamacharyulu",
-"PLACE":"Khairthabad",
-"AMOUNT":"10000",
-"DATE":"",
-"RECEIPT":""
-}
-,{
-"SNO":"115",
-"TITLE":"Shri.",
 "SURNAME":"Deevi",
 "NAME":"Harsha Ayyengar",
 "PLACE":"Vanasthalipuram",
@@ -1149,7 +1139,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"116",
+"SNO":"115",
 "TITLE":"Shri.",
 "SURNAME":"Parankusam",
 "NAME":"Jwala NarasimhaCharyulu",
@@ -1159,7 +1149,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"117",
+"SNO":"116",
 "TITLE":"Shri.",
 "SURNAME":"Khandavalli",
 "NAME":"V R S N Acharyulu",
@@ -1169,7 +1159,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"118",
+"SNO":"117",
 "TITLE":"Smt.",
 "SURNAME":"Devayajanam",
 "NAME":"Lalitha Kumari",
@@ -1179,7 +1169,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"119",
+"SNO":"118",
 "TITLE":"Shri.",
 "SURNAME":"Vedantam",
 "NAME":"Giri Prasad",
@@ -1189,7 +1179,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"120",
+"SNO":"119",
 "TITLE":"Shri.",
 "SURNAME":"Vedantam",
 "NAME":"Hariprasad",
@@ -1199,7 +1189,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"121",
+"SNO":"120",
 "TITLE":"Shri.",
 "SURNAME":"Nalluri",
 "NAME":"Narayanacharyulu",
@@ -1209,7 +1199,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"122",
+"SNO":"121",
 "TITLE":"Shri.",
 "SURNAME":"",
 "NAME":"P.V KrishnaMurty",
@@ -1219,7 +1209,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"123",
+"SNO":"122",
 "TITLE":"Shri.",
 "SURNAME":"Tamirisa",
 "NAME":"V G Jagannath",
@@ -1229,7 +1219,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"124",
+"SNO":"123",
 "TITLE":"Shri.",
 "SURNAME":"Narayanam",
 "NAME":"Vivekananda",
@@ -1239,7 +1229,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"125",
+"SNO":"124",
 "TITLE":"Shri.",
 "SURNAME":"D",
 "NAME":"Sreenivasa Charyulu",
@@ -1249,7 +1239,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"126",
+"SNO":"125",
 "TITLE":"Shri.",
 "SURNAME":"Kallagunta",
 "NAME":"L R Prasad",
@@ -1259,7 +1249,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"127",
+"SNO":"126",
 "TITLE":"Shri.",
 "SURNAME":"",
 "NAME":"R.Ranganadha Charyulu",
@@ -1269,7 +1259,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"128",
+"SNO":"127",
 "TITLE":"Shri.",
 "SURNAME":"",
 "NAME":"S.A.V.SatyanarayanaCharyulu",
@@ -1279,7 +1269,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"129",
+"SNO":"128",
 "TITLE":"Shri.",
 "SURNAME":"Narayanam",
 "NAME":"RamaKrishna",
@@ -1289,7 +1279,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"130",
+"SNO":"129",
 "TITLE":"Shri.",
 "SURNAME":"Bhavavarapu",
 "NAME":"SatyaPrasad",
@@ -1299,7 +1289,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"131",
+"SNO":"130",
 "TITLE":"Shri.",
 "SURNAME":"Meduri",
 "NAME":"Kodanda Rama Deekshitulu",
@@ -1309,7 +1299,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"132",
+"SNO":"131",
 "TITLE":"Smt.",
 "SURNAME":"",
 "NAME":"A. Satyavathi ",
@@ -1319,7 +1309,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"133",
+"SNO":"132",
 "TITLE":"Shri.",
 "SURNAME":"",
 "NAME":"P.RangaaCharyulu",
@@ -1329,7 +1319,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"134",
+"SNO":"133",
 "TITLE":"Shri.",
 "SURNAME":"Agnihotram",
 "NAME":"Sreekanth",
@@ -1339,7 +1329,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"135",
+"SNO":"134",
 "TITLE":"Smt.",
 "SURNAME":"",
 "NAME":"P. Sai Madhuri ",
@@ -1349,7 +1339,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"136",
+"SNO":"135",
 "TITLE":"Shri.",
 "SURNAME":"Sribhashyam",
 "NAME":"R Krishnamacharyulu",
@@ -1359,7 +1349,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"137",
+"SNO":"136",
 "TITLE":"Shri.",
 "SURNAME":"Pedapudi",
 "NAME":"Venugopala Krishnamacharyulu",
@@ -1369,7 +1359,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"138",
+"SNO":"137",
 "TITLE":"Shri.",
 "SURNAME":"Srinivasula",
 "NAME":"RamachandraaCharyulu",
@@ -1379,7 +1369,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"139",
+"SNO":"138",
 "TITLE":"Shri.",
 "SURNAME":"Vedantam",
 "NAME":"Srinivasa Ayodhyanadh",
@@ -1389,7 +1379,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"140",
+"SNO":"139",
 "TITLE":"Smt.",
 "SURNAME":"Vadapalli",
 "NAME":"VijayaLakshmi",
@@ -1399,7 +1389,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"141",
+"SNO":"140",
 "TITLE":"Shri.",
 "SURNAME":"Sribhashyam",
 "NAME":"Anjaneyulu",
@@ -1409,7 +1399,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"142",
+"SNO":"141",
 "TITLE":"Shri.",
 "SURNAME":"Peddinti",
 "NAME":"VenkataGopala krishnamacharyulu",
@@ -1419,7 +1409,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"143",
+"SNO":"142",
 "TITLE":"Shri.",
 "SURNAME":"",
 "NAME":"P.V.B SatyanarayanaCharyulu",
@@ -1429,7 +1419,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"144",
+"SNO":"143",
 "TITLE":"Shri.",
 "SURNAME":"Meduri",
 "NAME":"Murali",
@@ -1439,7 +1429,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"145",
+"SNO":"144",
 "TITLE":"Shri.",
 "SURNAME":"Vedantam",
 "NAME":"Srinivasa Murthy",
@@ -1449,7 +1439,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"146",
+"SNO":"145",
 "TITLE":"Shri.",
 "SURNAME":"",
 "NAME":"V.RamaKrishna & Bros ,(In memory of Late V.Janardhanacharyulu )",
@@ -1459,7 +1449,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"147",
+"SNO":"146",
 "TITLE":"Shri.",
 "SURNAME":"Deevi",
 "NAME":"Yogananda Narasimha Deekshithulu",
@@ -1469,7 +1459,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"148",
+"SNO":"147",
 "TITLE":"Shri.",
 "SURNAME":"Agnihotram",
 "NAME":"Hanumanthacharyulu",
@@ -1479,7 +1469,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"149",
+"SNO":"148",
 "TITLE":"Shri.",
 "SURNAME":"Vedantam",
 "NAME":"Ranganadhacharyulu",
@@ -1489,7 +1479,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"150",
+"SNO":"149",
 "TITLE":"Shri.",
 "SURNAME":"",
 "NAME":"S.Ranganadh",
@@ -1499,7 +1489,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"151",
+"SNO":"150",
 "TITLE":"Shri.",
 "SURNAME":"",
 "NAME":"V.Venkata RangaChary",
@@ -1509,7 +1499,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"152",
+"SNO":"151",
 "TITLE":"Shri.",
 "SURNAME":"",
 "NAME":"G.Raghunadh",
@@ -1519,7 +1509,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"153",
+"SNO":"152",
 "TITLE":"Shri.",
 "SURNAME":"Angara",
 "NAME":"Sairam",
@@ -1529,7 +1519,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"154",
+"SNO":"153",
 "TITLE":"Shri.",
 "SURNAME":"Sudarsanam",
 "NAME":"GopalaCharyulu",
@@ -1539,7 +1529,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"155",
+"SNO":"154",
 "TITLE":"Shri.",
 "SURNAME":"Agnihotram",
 "NAME":"VenkataCharyulu",
@@ -1549,7 +1539,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"156",
+"SNO":"155",
 "TITLE":"Shri.",
 "SURNAME":"",
 "NAME":"A.V Ramana ",
@@ -1559,7 +1549,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"157",
+"SNO":"156",
 "TITLE":"Shri.",
 "SURNAME":"Devayajanam",
 "NAME":"Sridhara Chakravarthy",
@@ -1569,7 +1559,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"158",
+"SNO":"157",
 "TITLE":"Shri.",
 "SURNAME":"Narayanam",
 "NAME":"SrinivasaMurty",
@@ -1579,7 +1569,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"159",
+"SNO":"158",
 "TITLE":"Shri.",
 "SURNAME":"Deevi",
 "NAME":"Srinivasa Murthy",
@@ -1589,7 +1579,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"160",
+"SNO":"159",
 "TITLE":"Shri.",
 "SURNAME":"Noori",
 "NAME":"Subhramanya Sastri",
@@ -1599,7 +1589,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"161",
+"SNO":"160",
 "TITLE":"Shri.",
 "SURNAME":"Sribhashyam",
 "NAME":"Krishna Prasad",
@@ -1609,7 +1599,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"162",
+"SNO":"161",
 "TITLE":"Shri.",
 "SURNAME":"",
 "NAME":"S. Vijaya Sai",
@@ -1619,7 +1609,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"163",
+"SNO":"162",
 "TITLE":"Shri.",
 "SURNAME":"Deevi",
 "NAME":"V VaradaCharyulu",
@@ -1629,7 +1619,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"164",
+"SNO":"163",
 "TITLE":"Shri.",
 "SURNAME":"Sribhashyam",
 "NAME":"Vijaya Saradhi",
@@ -1639,7 +1629,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"165",
+"SNO":"164",
 "TITLE":"Shri.",
 "SURNAME":"Sribhashyam",
 "NAME":"Sriman narayana",
@@ -1649,7 +1639,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"166",
+"SNO":"165",
 "TITLE":"Shri.",
 "SURNAME":"Deevi",
 "NAME":"Srinivasulacharyulu  ",
@@ -1659,7 +1649,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"167",
+"SNO":"166",
 "TITLE":"Shri.",
 "SURNAME":"Narayanam",
 "NAME":"Satya Deva Vara Prasad",
@@ -1669,7 +1659,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"168",
+"SNO":"167",
 "TITLE":"Shri.",
 "SURNAME":"Agnihotram",
 "NAME":"Peda SeshaCharyulu",
@@ -1679,7 +1669,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"169",
+"SNO":"168",
 "TITLE":"Shri.",
 "SURNAME":"Agnhotram ",
 "NAME":" V S R K Acharyulu in memory of his father Agnihotram PeddaSeshacharyulu",
@@ -1689,7 +1679,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"170",
+"SNO":"169",
 "TITLE":"Shri.",
 "SURNAME":"Vadapalli",
 "NAME":"Buchibabu",
@@ -1699,7 +1689,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"171",
+"SNO":"170",
 "TITLE":"Shri.",
 "SURNAME":"",
 "NAME":"L.Sundarayya",
@@ -1709,7 +1699,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"172",
+"SNO":"171",
 "TITLE":"Shri.",
 "SURNAME":"",
 "NAME":"K.Praveen ",
@@ -1719,7 +1709,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"173",
+"SNO":"172",
 "TITLE":"Shri.",
 "SURNAME":"",
 "NAME":"P.Gopalaswamy",
@@ -1729,7 +1719,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"174",
+"SNO":"173",
 "TITLE":"Shri.",
 "SURNAME":"Peddinti",
 "NAME":"Ananthacharyulu in memory of Bhakaramma",
@@ -1739,7 +1729,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"175",
+"SNO":"174",
 "TITLE":"Shri.",
 "SURNAME":"Deevi",
 "NAME":"PadmanabhaCharyulu",
@@ -1749,7 +1739,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"176",
+"SNO":"175",
 "TITLE":"Shri.",
 "SURNAME":"Agnihotram",
 "NAME":"UmashankaraCharyulu",
@@ -1759,7 +1749,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"177",
+"SNO":"176",
 "TITLE":"Shri.",
 "SURNAME":"",
 "NAME":"P.Satyanarayana",
@@ -1769,7 +1759,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"178",
+"SNO":"177",
 "TITLE":"Shri.",
 "SURNAME":"Rompicherla",
 "NAME":"Rama Krishnamacharyulu",
@@ -1779,7 +1769,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"179",
+"SNO":"178",
 "TITLE":"Shri.",
 "SURNAME":"Revuri",
 "NAME":"GopalaCharyulu",
@@ -1789,7 +1779,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"180",
+"SNO":"179",
 "TITLE":"Shri.",
 "SURNAME":"",
 "NAME":"G.A.P  Prasad",
@@ -1799,7 +1789,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"181",
+"SNO":"180",
 "TITLE":"Shri.",
 "SURNAME":"",
 "NAME":"G.M Sarath Kumar",
@@ -1809,7 +1799,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"182",
+"SNO":"181",
 "TITLE":"Shri.",
 "SURNAME":"Agnihotram",
 "NAME":"Laxmana Singara Charyulu",
@@ -1819,7 +1809,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"183",
+"SNO":"182",
 "TITLE":"Shri.",
 "SURNAME":"",
 "NAME":"K.Murali Krishna",
@@ -1829,7 +1819,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"184",
+"SNO":"183",
 "TITLE":"Shri.",
 "SURNAME":"Brindavanam",
 "NAME":"Sri Ramachakravarty",
@@ -1839,7 +1829,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"185",
+"SNO":"184",
 "TITLE":"Shri.",
 "SURNAME":"Deevi",
 "NAME":"Vijaya Saradhi",
@@ -1849,7 +1839,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"186",
+"SNO":"185",
 "TITLE":"Shri.",
 "SURNAME":"Khandavalli",
 "NAME":"Mangacharyulu",
@@ -1859,7 +1849,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"187",
+"SNO":"186",
 "TITLE":"Shri.",
 "SURNAME":"Khandavalli",
 "NAME":"Chaitanya",
@@ -1869,7 +1859,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"188",
+"SNO":"187",
 "TITLE":"Shri.",
 "SURNAME":"Peddinti",
 "NAME":"Sarath Chandra ",
@@ -1879,7 +1869,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"189",
+"SNO":"188",
 "TITLE":"Shri.",
 "SURNAME":"Deevi",
 "NAME":"Sridhar",
@@ -1889,7 +1879,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"190",
+"SNO":"189",
 "TITLE":"Shri.",
 "SURNAME":"Pulipaka",
 "NAME":"MuraliKrishna",
@@ -1899,7 +1889,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"191",
+"SNO":"190",
 "TITLE":"Shri.",
 "SURNAME":"Vadapalli",
 "NAME":"Vijaya Kiran",
@@ -1909,7 +1899,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"192",
+"SNO":"191",
 "TITLE":"Shri.",
 "SURNAME":"",
 "NAME":"K.Ramesh ",
@@ -1919,7 +1909,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"193",
+"SNO":"192",
 "TITLE":"Smt. Dr.",
 "SURNAME":"",
 "NAME":"Shakthirai Mitra",
@@ -1929,7 +1919,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"194",
+"SNO":"193",
 "TITLE":"Smt.",
 "SURNAME":"",
 "NAME":"N.Lalitha",
@@ -1939,7 +1929,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"195",
+"SNO":"194",
 "TITLE":"Shri.",
 "SURNAME":"Govardhanam",
 "NAME":"Trinadh Ramesh ",
@@ -1949,7 +1939,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"196",
+"SNO":"195",
 "TITLE":"Shri.",
 "SURNAME":"",
 "NAME":"R.Jagannadha Krishnamacharyulu",
@@ -1959,7 +1949,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"197",
+"SNO":"196",
 "TITLE":"Shri.",
 "SURNAME":"Peddinti",
 "NAME":"Venkata Hygriva Charyulu",
@@ -1969,7 +1959,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"198",
+"SNO":"197",
 "TITLE":"Shri.",
 "SURNAME":"",
 "NAME":"P.Shobanadri",
@@ -1979,7 +1969,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"199",
+"SNO":"198",
 "TITLE":"Shri.",
 "SURNAME":"",
 "NAME":"G.Naaga Venkata Pavan Kumar",
@@ -1989,7 +1979,7 @@ var donorsList = [{
 "RECEIPT":""
 }
 ,{
-"SNO":"200",
+"SNO":"199",
 "TITLE":"Shri.",
 "SURNAME":"",
 "NAME":"Lakshmi Narasimha Charyulu",
@@ -2007,7 +1997,7 @@ var itemsList = [{
 "SURNAME":"Ganjam",
 "NAME":"Ashok Babu",
 "PLACE":"DeendayalNagar",
-"ITEM":"200 - Drinking Steel Glasses, 75 - Steel Coffee Glasses",
+"ITEM":"150 - Drinking Steel Glasses, 75 - Steel Coffee Glasses",
 "IMG":"images/Ashramam/glasses.jpg"
 }
 ,{
@@ -2051,54 +2041,54 @@ var itemsList = [{
 "TITLE":"Shri.",
 "SURNAME":"Srinivasula",
 "NAME":"Ramachandra  charyulu",
-"PLACE":"",
-"ITEM":"1 - Stainless Steel Dining Table",
-"IMG":""
+"PLACE":"Gayatrinagar, Moulali",
+"ITEM":"3 - Stainless Steel Dining Table",
+"IMG":"images/Ashramam/noimage.jpg"
 }
 ,{
 "SNO":7,
 "TITLE":"Shri.",
 "SURNAME":"Deevi",
 "NAME":"S L Narasinhacharyulu",
-"PLACE":"",
-"ITEM":"1 - Stainless Steel Dining Table",
-"IMG":""
+"PLACE":"Alwal",
+"ITEM":"3 - Stainless Steel Dining Table",
+"IMG":"images/Ashramam/noimage.jpg"
 }
 ,{
 "SNO":8,
 "TITLE":"Shri.",
 "SURNAME":"Vadapalli",
 "NAME":"SridharaCharyulu",
-"PLACE":"",
-"ITEM":"1 - Stainless Steel Dining Table",
-"IMG":""
+"PLACE":"Kondapur, Ghatkesar",
+"ITEM":"3 - Stainless Steel Dining Table",
+"IMG":"images/Ashramam/noimage.jpg"
 }
 ,{
 "SNO":9,
 "TITLE":"Shri.",
 "SURNAME":"Sudarshanam",
 "NAME":"SatyanarayanaCharyulu",
-"PLACE":"",
-"ITEM":"1 - Stainless Steel Dining Table",
-"IMG":""
+"PLACE":"Vijayapuri Colony",
+"ITEM":"3 - Stainless Steel Dining Table",
+"IMG":"images/Ashramam/noimage.jpg"
 }
 ,{
 "SNO":10,
 "TITLE":"Shri.",
 "SURNAME":"Muttevi",
 "NAME":"Ravikumar NarasimhaCharyulu",
-"PLACE":"",
-"ITEM":"1 - Aluminium Big Cooking Vessel",
-"IMG":""
+"PLACE":"HMT Nagar",
+"ITEM":"4 - Aluminium Big Cooking Vessel with lid",
+"IMG":"images/Ashramam/noimage.jpg"
 }
 ,{
 "SNO":11,
 "TITLE":"Shri.",
 "SURNAME":"Vadapalli",
 "NAME":"Sudhakar",
-"PLACE":"",
-"ITEM":"1 - Aluminium Big Cooking Vessel",
-"IMG":""
+"PLACE":"HMT Nagar",
+"ITEM":"3 - Aluminium Big Cooking Vessel with lid",
+"IMG":"images/Ashramam/noimage.jpg"
 }
 ,{
 "SNO":12,
@@ -2107,16 +2097,97 @@ var itemsList = [{
 "NAME":"Raghava Deekshitulu",
 "PLACE":"Boduppal",
 "ITEM":"15 - Stainless Steel Basins",
-"IMG":""
+"IMG":"images/Ashramam/noimage.jpg"
 }
 ,{
 "SNO":13,
 "TITLE":"Shri.",
 "SURNAME":"Pedapudi",
 "NAME":"KrishnamaCharyulu",
-"PLACE":"Mehdipatnam",
-"ITEM":"1 - Steel Almara",
-"IMG":""
+"PLACE":"Sarada Nagar",
+"ITEM":"1 - Steel Almara, 1 - Aluminium Vessel with lid",
+"IMG":"images/Ashramam/noimage.jpg"
+}
+,{
+"SNO":14,
+"TITLE":"Shri.",
+"SURNAME":"Deevi",
+"NAME":"Surendra Bhishek",
+"PLACE":"Vanasthalipuram",
+"ITEM":"1 - Computer, 1 - Computer Table",
+"IMG":"images/Ashramam/noimage.jpg"
+}
+,{
+"SNO":15,
+"TITLE":"Shri.",
+"SURNAME":"R",
+"NAME":"Parthasarathi",
+"PLACE":"",
+"ITEM":"1 - Aluminium Big Cooking Vessel with lid",
+"IMG":"images/Ashramam/noimage.jpg"
+}
+,{
+"SNO":16,
+"TITLE":"Shri.",
+"SURNAME":"B",
+"NAME":"Vedadri",
+"PLACE":"",
+"ITEM":"1 - Aluminium Big Cooking Vessel with lid",
+"IMG":"images/Ashramam/noimage.jpg"
+}
+,{
+"SNO":17,
+"TITLE":"Shri.",
+"SURNAME":"K",
+"NAME":"Prabhakaracharyulu & Friends",
+"PLACE":"",
+"ITEM":"1 - Mike Set",
+"IMG":"images/Ashramam/noimage.jpg"
+}
+,{
+"SNO":18,
+"TITLE":"Shri.",
+"SURNAME":"Agnihotram",
+"NAME":"Kishore",
+"PLACE":"",
+"ITEM":"1 - Tea Flask",
+"IMG":"images/Ashramam/noimage.jpg"
+}
+,{
+"SNO":19,
+"TITLE":"Shri.",
+"SURNAME":"Deevi",
+"NAME":"Sarangapani Iyengar",
+"PLACE":"Bhavani Nagar",
+"ITEM":"6 - Chairs",
+"IMG":"images/Ashramam/noimage.jpg"
+}
+,{
+"SNO":20,
+"TITLE":"Shri.",
+"SURNAME":"P",
+"NAME":"Gopala Krishna",
+"PLACE":"",
+"ITEM":"6 - Chairs",
+"IMG":"images/Ashramam/noimage.jpg"
+}
+,{
+"SNO":21,
+"TITLE":"",
+"SURNAME":"",
+"NAME":"Nirmala (Bharat Gas)",
+"PLACE":"",
+"ITEM":"1 - Gas Cylinder",
+"IMG":"images/Ashramam/noimage.jpg"
+}
+,{
+"SNO":22,
+"TITLE":"",
+"SURNAME":"",
+"NAME":"Ashramam existing old items",
+"PLACE":"",
+"ITEM":"9 - Steel Buckets, 2 - Chairs, 2 - Dustbin Drums, 99 - Glasses, 2 - Steel Water Jugs, 1 - Strainer Bowl, 2 - Tables, 2 - Water Drums, 4 - Water Cans, 1 - Aluminium Vessel with lid, 14 - Garitelu",
+"IMG":"images/Ashramam/noimage.jpg"
 }
 ];
 
