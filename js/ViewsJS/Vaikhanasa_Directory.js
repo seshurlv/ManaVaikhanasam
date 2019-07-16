@@ -2533,6 +2533,32 @@ var directoryList = [{
 "Professsion":"",
 "UserImage":""
 }
+,{
+"Sno":196,
+"Name":"Prathibha Balaji",
+"Father":"",
+"Gotram":"",
+"LandLine":"",
+"Mobile":8123066772,
+"Email":"prathibha.balajimay4@gmail.com",
+"Native":"",
+"Address":"",
+"Professsion":"",
+"UserImage":""
+}
+,{
+"Sno":197,
+"Name":"Govardhanam Bhargavaram",
+"Father":"Late Govardhanam Venkataramana Charyulu",
+"Gotram":"Goutamasa",
+"LandLine":"",
+"Mobile":9989158590,
+"Email":"bramgovardhana@gmail.com",
+"Native":"",
+"Address":"",
+"Professsion":"",
+"UserImage":""
+}
 ];
 				
 angular.module('ngTableTutorial', ['ngTable'])

@@ -4,7 +4,7 @@ var donorsList = [{
 "SURNAME":"Deevi",
 "NAME":"Sarangapani Iyengar ,  Parthasarathi and Late Sridhar ",
 "PLACE":"Nacharam",
-"AMOUNT":"350000",
+"AMOUNT":"₹ 3,50,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -14,7 +14,7 @@ var donorsList = [{
 "SURNAME":"Peddinti",
 "NAME":"SuryaVarchasvi d/o P Gopala Charyulu",
 "PLACE":"SankarNagar",
-"AMOUNT":"330000",
+"AMOUNT":"₹ 3,30,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -24,7 +24,7 @@ var donorsList = [{
 "SURNAME":"Sribhashyam",
 "NAME":"Pavan kumar ",
 "PLACE":"Texas(USA)",
-"AMOUNT":"300000",
+"AMOUNT":"₹ 3,00,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -34,7 +34,7 @@ var donorsList = [{
 "SURNAME":"Sribhashyam",
 "NAME":"Mohanacharyulu",
 "PLACE":"Alwal",
-"AMOUNT":"150000",
+"AMOUNT":"₹ 1,50,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -44,7 +44,7 @@ var donorsList = [{
 "SURNAME":"Sribhashyam",
 "NAME":"Ananthacharyulu",
 "PLACE":"BHEL",
-"AMOUNT":"100116",
+"AMOUNT":"₹ 1,00,116",
 "DATE":"",
 "RECEIPT":""
 }
@@ -54,7 +54,7 @@ var donorsList = [{
 "SURNAME":"Narayanam",
 "NAME":"Bhava Prasad",
 "PLACE":"Alwal",
-"AMOUNT":"100000",
+"AMOUNT":"₹ 1,00,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -64,7 +64,7 @@ var donorsList = [{
 "SURNAME":"Sribhashyam",
 "NAME":"Anantha Srinivasacharyulu",
 "PLACE":"Alwal",
-"AMOUNT":"100000",
+"AMOUNT":"₹ 1,00,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -74,7 +74,7 @@ var donorsList = [{
 "SURNAME":"Paramkusam",
 "NAME":"Seetharaamacharyulu",
 "PLACE":"Moulali",
-"AMOUNT":"100000",
+"AMOUNT":"₹ 1,00,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -84,7 +84,7 @@ var donorsList = [{
 "SURNAME":"",
 "NAME":"S.Venkatacharyulu",
 "PLACE":"Mauritus",
-"AMOUNT":"100000",
+"AMOUNT":"₹ 1,00,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -94,7 +94,7 @@ var donorsList = [{
 "SURNAME":"Deevi",
 "NAME":"Raghava Deekshitulu & Sons",
 "PLACE":"Tirupati(USA)",
-"AMOUNT":"100000",
+"AMOUNT":"₹ 1,00,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -104,7 +104,7 @@ var donorsList = [{
 "SURNAME":"Rompicherla",
 "NAME":"Srinivasa Deekshithulu",
 "PLACE":"Vivekananda nagar",
-"AMOUNT":"100000",
+"AMOUNT":"₹ 1,00,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -114,7 +114,7 @@ var donorsList = [{
 "SURNAME":"Agnihotram",
 "NAME":"Sanath Kumar",
 "PLACE":"Tirupati ",
-"AMOUNT":"100000",
+"AMOUNT":"₹ 1,00,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -124,7 +124,7 @@ var donorsList = [{
 "SURNAME":"Ganjam",
 "NAME":"Krishna Prasad in Memory of  his Father and Mother ",
 "PLACE":"Lalaguda , Tarnaka",
-"AMOUNT":"100000",
+"AMOUNT":"₹ 1,00,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -134,7 +134,7 @@ var donorsList = [{
 "SURNAME":"Narayanam",
 "NAME":"KesavaMurthy",
 "PLACE":"Boduppal",
-"AMOUNT":"60000",
+"AMOUNT":"₹ 60,000",
 "DATE":"2/12/2018",
 "RECEIPT":"2/42"
 }
@@ -144,7 +144,7 @@ var donorsList = [{
 "SURNAME":"Deevi",
 "NAME":"Acharya Sathrughna Kumar & Bros",
 "PLACE":"Gayatri Nagar ",
-"AMOUNT":"50116",
+"AMOUNT":"₹ 50,116",
 "DATE":"",
 "RECEIPT":""
 }
@@ -154,7 +154,7 @@ var donorsList = [{
 "SURNAME":"Narayanam",
 "NAME":"Satyanarayanacharyulu",
 "PLACE":"Memphis (USA)",
-"AMOUNT":"50116",
+"AMOUNT":"₹ 50,116",
 "DATE":"",
 "RECEIPT":""
 }
@@ -164,7 +164,7 @@ var donorsList = [{
 "SURNAME":"Pedapudi",
 "NAME":"Krishnama Charyulu",
 "PLACE":"Saradanagar",
-"AMOUNT":"50011",
+"AMOUNT":"₹ 50,011",
 "DATE":"2/12/2018",
 "RECEIPT":"2/40"
 }
@@ -174,7 +174,7 @@ var donorsList = [{
 "SURNAME":"Tamirisa",
 "NAME":"Srinivasa VenuGopal      s/o  T.Narashimhacharyulu",
 "PLACE":"Irvine ,USA",
-"AMOUNT":"50000",
+"AMOUNT":"₹ 50,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -184,7 +184,7 @@ var donorsList = [{
 "SURNAME":"Deevi",
 "NAME":"Hayagreeva Bhattacharyulu",
 "PLACE":"Nandyal",
-"AMOUNT":"50000",
+"AMOUNT":"₹ 50,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -194,7 +194,7 @@ var donorsList = [{
 "SURNAME":"Agnihotram",
 "NAME":"V.G Krishnamacharyulu",
 "PLACE":"Saradanagar",
-"AMOUNT":"50000",
+"AMOUNT":"₹ 50,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -204,7 +204,7 @@ var donorsList = [{
 "SURNAME":"Ganjam",
 "NAME":"Pattabhiram",
 "PLACE":"Tarnaka",
-"AMOUNT":"50000",
+"AMOUNT":"₹ 50,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -214,7 +214,7 @@ var donorsList = [{
 "SURNAME":"Deevi",
 "NAME":"Seetarambabu",
 "PLACE":"Chikkadapalli",
-"AMOUNT":"50000",
+"AMOUNT":"₹ 50,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -224,7 +224,7 @@ var donorsList = [{
 "SURNAME":"Sribhashyam",
 "NAME":"Muralidhar",
 "PLACE":"BHEL",
-"AMOUNT":"50000",
+"AMOUNT":"₹ 50,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -234,7 +234,7 @@ var donorsList = [{
 "SURNAME":"Rompicherla",
 "NAME":"Venkata Satyanarayana Charyulu",
 "PLACE":"Mytripuram, Karmanghat",
-"AMOUNT":"50000",
+"AMOUNT":"₹ 50,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -244,7 +244,7 @@ var donorsList = [{
 "SURNAME":"Deevi",
 "NAME":"Sudarsana Bhattacharyulu",
 "PLACE":"Repalle(Guntur Dist.)",
-"AMOUNT":"50000",
+"AMOUNT":"₹ 50,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -254,7 +254,7 @@ var donorsList = [{
 "SURNAME":"Agnihotram",
 "NAME":"Sreenivasa charyulu",
 "PLACE":"Beeramguda",
-"AMOUNT":"50000",
+"AMOUNT":"₹ 50,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -264,7 +264,7 @@ var donorsList = [{
 "SURNAME":"Brindavanam",
 "NAME":"Venkata Appalacharyulu & Sons",
 "PLACE":"Kurnool",
-"AMOUNT":"50000",
+"AMOUNT":"₹ 50,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -274,7 +274,7 @@ var donorsList = [{
 "SURNAME":"Agnihotram",
 "NAME":"Srinivasa Deekshitulu",
 "PLACE":"Moscow",
-"AMOUNT":"50000",
+"AMOUNT":"₹ 50,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -284,7 +284,7 @@ var donorsList = [{
 "SURNAME":"Devayajanam",
 "NAME":"Murali Gopala Krishna Murthy",
 "PLACE":"BHEL",
-"AMOUNT":"32500",
+"AMOUNT":"₹ 32,500",
 "DATE":"2/12/2018",
 "RECEIPT":"2/38"
 }
@@ -294,7 +294,7 @@ var donorsList = [{
 "SURNAME":"Sribhashyam",
 "NAME":"Ravi Chandra",
 "PLACE":"Alwal",
-"AMOUNT":"25000",
+"AMOUNT":"₹ 25,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -304,7 +304,7 @@ var donorsList = [{
 "SURNAME":"Deevi",
 "NAME":"Krishnaswami Iyengar",
 "PLACE":"Nalluru(Guntur Dist.)",
-"AMOUNT":"25000",
+"AMOUNT":"₹ 25,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -314,7 +314,7 @@ var donorsList = [{
 "SURNAME":"Parasaram",
 "NAME":"V Ranganadha Iyyenger & Brothers",
 "PLACE":"Malakpet",
-"AMOUNT":"25000",
+"AMOUNT":"₹ 25,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -324,7 +324,7 @@ var donorsList = [{
 "SURNAME":"Narayanam",
 "NAME":"Sravan Kumar",
 "PLACE":"Chikkadapalli",
-"AMOUNT":"25000",
+"AMOUNT":"₹ 25,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -334,7 +334,7 @@ var donorsList = [{
 "SURNAME":"Narayanam",
 "NAME":"RadhaKrishna",
 "PLACE":"Chikkadapalli",
-"AMOUNT":"25000",
+"AMOUNT":"₹ 25,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -344,7 +344,7 @@ var donorsList = [{
 "SURNAME":"Rompicherla",
 "NAME":"Lakshmi Narasimha Charyulu",
 "PLACE":"Tenali",
-"AMOUNT":"25000",
+"AMOUNT":"₹ 25,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -354,7 +354,7 @@ var donorsList = [{
 "SURNAME":"Peddinti",
 "NAME":"Gopala Charyulu and son inlaws",
 "PLACE":"JamaiOsmania",
-"AMOUNT":"25000",
+"AMOUNT":"₹ 25,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -364,7 +364,7 @@ var donorsList = [{
 "SURNAME":"Peddinti",
 "NAME":"R K Chakrapani",
 "PLACE":"Moosarambagh",
-"AMOUNT":"20232",
+"AMOUNT":"₹ 20,232",
 "DATE":"",
 "RECEIPT":""
 }
@@ -374,7 +374,7 @@ var donorsList = [{
 "SURNAME":"Paramkusam",
 "NAME":"Ranganadhacharyulu",
 "PLACE":"A.S.Rao Nagar",
-"AMOUNT":"20000",
+"AMOUNT":"₹ 20,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -384,7 +384,7 @@ var donorsList = [{
 "SURNAME":"",
 "NAME":"N.Rangaraavu",
 "PLACE":"A.S.Rao Nagar",
-"AMOUNT":"20000",
+"AMOUNT":"₹ 20,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -394,7 +394,7 @@ var donorsList = [{
 "SURNAME":"Tamirisa",
 "NAME":"Panakalacharyulu",
 "PLACE":"Repalle(Guntur Dist.)",
-"AMOUNT":"20000",
+"AMOUNT":"₹ 20,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -404,7 +404,7 @@ var donorsList = [{
 "SURNAME":"Deevi",
 "NAME":"Sai Srinivas",
 "PLACE":"Hydernagar",
-"AMOUNT":"20000",
+"AMOUNT":"₹ 20,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -414,7 +414,7 @@ var donorsList = [{
 "SURNAME":"Peddinti",
 "NAME":"S S Hariprasad ",
 "PLACE":"Motinagar",
-"AMOUNT":"20000",
+"AMOUNT":"₹ 20,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -424,7 +424,7 @@ var donorsList = [{
 "SURNAME":"Khandavalli",
 "NAME":"Venkata SatyaPrabhakaram",
 "PLACE":"Kukatpally",
-"AMOUNT":"20000",
+"AMOUNT":"₹ 20,000",
 "DATE":"2/12/2018",
 "RECEIPT":"2/41"
 }
@@ -434,7 +434,7 @@ var donorsList = [{
 "SURNAME":"Tamirisa",
 "NAME":"Narasimha Rao",
 "PLACE":"Vanasthalipuram",
-"AMOUNT":"20000",
+"AMOUNT":"₹ 20,000",
 "DATE":"2/12/2018",
 "RECEIPT":"2/39"
 }
@@ -444,7 +444,7 @@ var donorsList = [{
 "SURNAME":"Deevi",
 "NAME":"S V L NarasimhaCharyulu",
 "PLACE":"Alwal",
-"AMOUNT":"20000",
+"AMOUNT":"₹ 20,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -454,7 +454,7 @@ var donorsList = [{
 "SURNAME":"Gudipudi",
 "NAME":"Seetharamacharyulu",
 "PLACE":"Khairthabad",
-"AMOUNT":"20000",
+"AMOUNT":"₹ 20,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -464,7 +464,7 @@ var donorsList = [{
 "SURNAME":"Khandavalli",
 "NAME":"Venkata Ramana Murthy",
 "PLACE":"Gajularamaaram",
-"AMOUNT":"16116",
+"AMOUNT":"₹ 16,116",
 "DATE":"",
 "RECEIPT":""
 }
@@ -474,7 +474,7 @@ var donorsList = [{
 "SURNAME":"Agnihotram",
 "NAME":"Sreerama Chakravarty, Lakshmana Kumar and Venugopal",
 "PLACE":"Gayatri Nagar - ",
-"AMOUNT":"15000",
+"AMOUNT":"₹ 15,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -484,7 +484,7 @@ var donorsList = [{
 "SURNAME":"Agnihotram",
 "NAME":"Krishna Kishore",
 "PLACE":"USA",
-"AMOUNT":"11493",
+"AMOUNT":"₹ 11,493",
 "DATE":"",
 "RECEIPT":""
 }
@@ -494,7 +494,7 @@ var donorsList = [{
 "SURNAME":"Vedantam",
 "NAME":"RamaKrishna",
 "PLACE":"Moulali",
-"AMOUNT":"10116",
+"AMOUNT":"₹ 10,116",
 "DATE":"",
 "RECEIPT":""
 }
@@ -504,7 +504,7 @@ var donorsList = [{
 "SURNAME":"Deevi",
 "NAME":"Srinivas ",
 "PLACE":"BanjaraHills",
-"AMOUNT":"10116",
+"AMOUNT":"₹ 10,116",
 "DATE":"",
 "RECEIPT":""
 }
@@ -514,7 +514,7 @@ var donorsList = [{
 "SURNAME":"Agnihotram",
 "NAME":"AppalaCharyulu",
 "PLACE":"Gayatri Nagar",
-"AMOUNT":"10116",
+"AMOUNT":"₹ 10,116",
 "DATE":"",
 "RECEIPT":""
 }
@@ -524,7 +524,7 @@ var donorsList = [{
 "SURNAME":"Vedantam",
 "NAME":"Radha Krishnamacharyulu",
 "PLACE":"Mallapur",
-"AMOUNT":"10116",
+"AMOUNT":"₹ 10,116",
 "DATE":"",
 "RECEIPT":""
 }
@@ -534,7 +534,7 @@ var donorsList = [{
 "SURNAME":"Deevi",
 "NAME":"Venkataramana",
 "PLACE":"Vanasthalipuram",
-"AMOUNT":"10116",
+"AMOUNT":"₹ 10,116",
 "DATE":"",
 "RECEIPT":""
 }
@@ -544,7 +544,7 @@ var donorsList = [{
 "SURNAME":"Sribhashyam",
 "NAME":"Ramakrishna",
 "PLACE":"Saroornagar",
-"AMOUNT":"10116",
+"AMOUNT":"₹ 10,116",
 "DATE":"",
 "RECEIPT":""
 }
@@ -554,7 +554,7 @@ var donorsList = [{
 "SURNAME":"",
 "NAME":"S.Prasada Charyulu & Bros",
 "PLACE":"Bhimavaram",
-"AMOUNT":"10116",
+"AMOUNT":"₹ 10,116",
 "DATE":"",
 "RECEIPT":""
 }
@@ -564,7 +564,7 @@ var donorsList = [{
 "SURNAME":"Nalluri",
 "NAME":"Dasaradha Srinivasa Deekshithulu",
 "PLACE":"Nalluru (Guntur Dist.)",
-"AMOUNT":"10116",
+"AMOUNT":"₹ 10,116",
 "DATE":"",
 "RECEIPT":""
 }
@@ -574,7 +574,7 @@ var donorsList = [{
 "SURNAME":"Srinivasula",
 "NAME":"Subhadhracharyulu",
 "PLACE":"Jillelaguda",
-"AMOUNT":"10116",
+"AMOUNT":"₹ 10,116",
 "DATE":"",
 "RECEIPT":""
 }
@@ -584,7 +584,7 @@ var donorsList = [{
 "SURNAME":"Deevi",
 "NAME":"Rajyalakshmi",
 "PLACE":"Jillelaguda",
-"AMOUNT":"10116",
+"AMOUNT":"₹ 10,116",
 "DATE":"",
 "RECEIPT":""
 }
@@ -594,7 +594,7 @@ var donorsList = [{
 "SURNAME":"Vedantam",
 "NAME":"Hari Srinivasa Deekshitulu",
 "PLACE":"Boduppal",
-"AMOUNT":"10116",
+"AMOUNT":"₹ 10,116",
 "DATE":"",
 "RECEIPT":""
 }
@@ -604,7 +604,7 @@ var donorsList = [{
 "SURNAME":"Deevi",
 "NAME":"V V Ramakrishnama Charyulu",
 "PLACE":"Boduppal",
-"AMOUNT":"10116",
+"AMOUNT":"₹ 10,116",
 "DATE":"",
 "RECEIPT":""
 }
@@ -614,7 +614,7 @@ var donorsList = [{
 "SURNAME":"Muttevi",
 "NAME":"LeelaKrishna",
 "PLACE":"Borabanda",
-"AMOUNT":"10116",
+"AMOUNT":"₹ 10,116",
 "DATE":"",
 "RECEIPT":""
 }
@@ -624,7 +624,7 @@ var donorsList = [{
 "SURNAME":"Deevi",
 "NAME":"VenkataLakshmi",
 "PLACE":"Borabanda",
-"AMOUNT":"10116",
+"AMOUNT":"₹ 10,116",
 "DATE":"",
 "RECEIPT":""
 }
@@ -634,7 +634,7 @@ var donorsList = [{
 "SURNAME":"Deevi",
 "NAME":"Venu Madhav",
 "PLACE":"BHEL",
-"AMOUNT":"10016",
+"AMOUNT":"₹ 10,016",
 "DATE":"",
 "RECEIPT":""
 }
@@ -644,7 +644,7 @@ var donorsList = [{
 "SURNAME":"Govardhanam",
 "NAME":"Pattabhirama charyulu ",
 "PLACE":"Telephone Colony,Hyderabad",
-"AMOUNT":"10001",
+"AMOUNT":"₹ 10,001",
 "DATE":"",
 "RECEIPT":""
 }
@@ -654,7 +654,7 @@ var donorsList = [{
 "SURNAME":"Deevi",
 "NAME":"Tushara & Havisha in Memory of their Father late Deevi Lakshmi Narasimha chrayulu",
 "PLACE":"Vasavi nagar coloy, R.K.Puram Kothapeta ",
-"AMOUNT":"10001",
+"AMOUNT":"₹ 10,001",
 "DATE":"",
 "RECEIPT":""
 }
@@ -664,7 +664,7 @@ var donorsList = [{
 "SURNAME":"Peddinti",
 "NAME":"Bhaskara Murty ",
 "PLACE":"Moulali",
-"AMOUNT":"10001",
+"AMOUNT":"₹ 10,001",
 "DATE":"",
 "RECEIPT":""
 }
@@ -674,7 +674,7 @@ var donorsList = [{
 "SURNAME":"",
 "NAME":"S.V.Rangacharyulu",
 "PLACE":"Hyderabad",
-"AMOUNT":"10001",
+"AMOUNT":"₹ 10,001",
 "DATE":"",
 "RECEIPT":""
 }
@@ -684,7 +684,7 @@ var donorsList = [{
 "SURNAME":"Parasaram",
 "NAME":"AlahaSingaracharyulu",
 "PLACE":"Mallapur",
-"AMOUNT":"10000",
+"AMOUNT":"₹ 10,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -694,7 +694,7 @@ var donorsList = [{
 "SURNAME":"Tamirisa",
 "NAME":"Vikhanasacharyulu",
 "PLACE":"Bhavani Nagar(Nacharam)",
-"AMOUNT":"10000",
+"AMOUNT":"₹ 10,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -704,7 +704,7 @@ var donorsList = [{
 "SURNAME":"Srinivasula",
 "NAME":"Srinivasula Deekshitulu",
 "PLACE":"Alkapuri",
-"AMOUNT":"10000",
+"AMOUNT":"₹ 10,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -714,7 +714,7 @@ var donorsList = [{
 "SURNAME":"Deevi",
 "NAME":"S Bhishak",
 "PLACE":"Vanasthalipuram",
-"AMOUNT":"10000",
+"AMOUNT":"₹ 10,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -724,7 +724,7 @@ var donorsList = [{
 "SURNAME":"Vedantam",
 "NAME":"Sita",
 "PLACE":"Hasthinapuram",
-"AMOUNT":"10000",
+"AMOUNT":"₹ 10,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -734,7 +734,7 @@ var donorsList = [{
 "SURNAME":"Deevi",
 "NAME":"Srinivas ",
 "PLACE":"Vompuguda",
-"AMOUNT":"10000",
+"AMOUNT":"₹ 10,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -744,7 +744,7 @@ var donorsList = [{
 "SURNAME":"Attili",
 "NAME":"Gopala krishnamacharyulu",
 "PLACE":"Telephone Colony",
-"AMOUNT":"10000",
+"AMOUNT":"₹ 10,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -754,7 +754,7 @@ var donorsList = [{
 "SURNAME":"Peddinti",
 "NAME":"Rajagopal",
 "PLACE":"L.B.Nagar",
-"AMOUNT":"10000",
+"AMOUNT":"₹ 10,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -764,7 +764,7 @@ var donorsList = [{
 "SURNAME":"Deevi",
 "NAME":"Tandava Krishna Murthy",
 "PLACE":"Chaitanyapuri",
-"AMOUNT":"10000",
+"AMOUNT":"₹ 10,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -774,7 +774,7 @@ var donorsList = [{
 "SURNAME":"Vedantam",
 "NAME":"Srinivasa Murty",
 "PLACE":"Secunderabad",
-"AMOUNT":"10000",
+"AMOUNT":"₹ 10,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -784,7 +784,7 @@ var donorsList = [{
 "SURNAME":"Deevi",
 "NAME":"Lakshmi Kantam",
 "PLACE":"Alwal",
-"AMOUNT":"10000",
+"AMOUNT":"₹ 10,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -794,7 +794,7 @@ var donorsList = [{
 "SURNAME":"Agnihotram",
 "NAME":"A V RaghavaCharyulu",
 "PLACE":"BHEL",
-"AMOUNT":"10000",
+"AMOUNT":"₹ 10,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -804,7 +804,7 @@ var donorsList = [{
 "SURNAME":"Vedantam",
 "NAME":"Devaki Devi & SreenivasaMurty",
 "PLACE":"Vanasthalipuram",
-"AMOUNT":"10000",
+"AMOUNT":"₹ 10,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -814,7 +814,7 @@ var donorsList = [{
 "SURNAME":"Ganjam",
 "NAME":"G A SeshaCharyulu",
 "PLACE":"MacDowel Colony (USA)",
-"AMOUNT":"10000",
+"AMOUNT":"₹ 10,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -824,7 +824,7 @@ var donorsList = [{
 "SURNAME":"Brindavanam",
 "NAME":"V N A Vedadri ",
 "PLACE":"Nacharam",
-"AMOUNT":"10000",
+"AMOUNT":"₹ 10,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -834,7 +834,7 @@ var donorsList = [{
 "SURNAME":"Rompicherla",
 "NAME":"V BharataCharyulu",
 "PLACE":"Nallakunta",
-"AMOUNT":"10000",
+"AMOUNT":"₹ 10,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -844,7 +844,7 @@ var donorsList = [{
 "SURNAME":"Agnihotram",
 "NAME":"Lakshmi NarasimhaCharyulu ",
 "PLACE":"Hasthinapuram",
-"AMOUNT":"10000",
+"AMOUNT":"₹ 10,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -854,7 +854,7 @@ var donorsList = [{
 "SURNAME":"Tamirisa",
 "NAME":"V L N Acharyulu ",
 "PLACE":"Pedaravuru (Guntur Dist )",
-"AMOUNT":"10000",
+"AMOUNT":"₹ 10,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -864,7 +864,7 @@ var donorsList = [{
 "SURNAME":"Peddinti",
 "NAME":"GopalaKrishna",
 "PLACE":"Uppal Depot",
-"AMOUNT":"10000",
+"AMOUNT":"₹ 10,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -874,7 +874,7 @@ var donorsList = [{
 "SURNAME":"Vedantam",
 "NAME":"ChandraMohan Srinivas ",
 "PLACE":"Gayatri Nagar",
-"AMOUNT":"10000",
+"AMOUNT":"₹ 10,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -884,7 +884,7 @@ var donorsList = [{
 "SURNAME":"Agnihotram",
 "NAME":"Krishna Prasad",
 "PLACE":"Gayatri Nagar",
-"AMOUNT":"10000",
+"AMOUNT":"₹ 10,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -894,7 +894,7 @@ var donorsList = [{
 "SURNAME":"Agnihotram",
 "NAME":"HarinarayanaCharyulu",
 "PLACE":"Balaji nagar",
-"AMOUNT":"10000",
+"AMOUNT":"₹ 10,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -904,7 +904,7 @@ var donorsList = [{
 "SURNAME":"Vedantam",
 "NAME":"MadhavaCharyulu ",
 "PLACE":"Vanasthalipuram",
-"AMOUNT":"10000",
+"AMOUNT":"₹ 10,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -914,7 +914,7 @@ var donorsList = [{
 "SURNAME":"Rompicherla",
 "NAME":"Muralikrishna",
 "PLACE":"Jillelaguda",
-"AMOUNT":"10000",
+"AMOUNT":"₹ 10,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -924,7 +924,7 @@ var donorsList = [{
 "SURNAME":"Brindavanam",
 "NAME":"Venkata Venugopalacharyulu",
 "PLACE":"Borabanda",
-"AMOUNT":"10000",
+"AMOUNT":"₹ 10,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -934,7 +934,7 @@ var donorsList = [{
 "SURNAME":"Kallagunta",
 "NAME":"V Raghurama Murty",
 "PLACE":"Kukatpally",
-"AMOUNT":"10000",
+"AMOUNT":"₹ 10,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -944,7 +944,7 @@ var donorsList = [{
 "SURNAME":"Vedantam",
 "NAME":"Satyanarayana Kumar",
 "PLACE":"Kukatpally",
-"AMOUNT":"10000",
+"AMOUNT":"₹ 10,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -954,7 +954,7 @@ var donorsList = [{
 "SURNAME":"Govardhanam",
 "NAME":"Narasimha Murty",
 "PLACE":"Hydershakotla",
-"AMOUNT":"10000",
+"AMOUNT":"₹ 10,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -964,7 +964,7 @@ var donorsList = [{
 "SURNAME":"Nalluri",
 "NAME":"Lakshmi Narayana BhattaCharyulu",
 "PLACE":"Nallur(Guntur Dist.)",
-"AMOUNT":"10000",
+"AMOUNT":"₹ 10,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -974,7 +974,7 @@ var donorsList = [{
 "SURNAME":"Parasaram",
 "NAME":"Seshasai",
 "PLACE":"Vanasthalipuram",
-"AMOUNT":"10000",
+"AMOUNT":"₹ 10,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -984,7 +984,7 @@ var donorsList = [{
 "SURNAME":"Peddinti",
 "NAME":"Sreerama Chandra Murty",
 "PLACE":"Chikkadapalli",
-"AMOUNT":"10000",
+"AMOUNT":"₹ 10,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -994,7 +994,7 @@ var donorsList = [{
 "SURNAME":"Khandavalli",
 "NAME":"PrabhakaraCharyulu",
 "PLACE":"Vanasthalipuram",
-"AMOUNT":"10000",
+"AMOUNT":"₹ 10,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1004,7 +1004,7 @@ var donorsList = [{
 "SURNAME":"Sribhashyam",
 "NAME":"R Krishnama Charyulu",
 "PLACE":"Saroornagar",
-"AMOUNT":"10000",
+"AMOUNT":"₹ 10,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1014,7 +1014,7 @@ var donorsList = [{
 "SURNAME":"Sribhashyam",
 "NAME":"Krishna Prasad",
 "PLACE":"Saroornagar",
-"AMOUNT":"10000",
+"AMOUNT":"₹ 10,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1024,7 +1024,7 @@ var donorsList = [{
 "SURNAME":"Sribhashyam",
 "NAME":"Narayana",
 "PLACE":"Saroornagar",
-"AMOUNT":"10000",
+"AMOUNT":"₹ 10,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1034,7 +1034,7 @@ var donorsList = [{
 "SURNAME":"Nalluri",
 "NAME":"Madhusudhan ",
 "PLACE":"Warasiguda",
-"AMOUNT":"10000",
+"AMOUNT":"₹ 10,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1044,7 +1044,7 @@ var donorsList = [{
 "SURNAME":"Nalluri",
 "NAME":"Vikhanasa BattaCharyulu",
 "PLACE":"Nallur(Guntur Dist.)",
-"AMOUNT":"10000",
+"AMOUNT":"₹ 10,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1054,7 +1054,7 @@ var donorsList = [{
 "SURNAME":"Rompicherla",
 "NAME":"Raghavacharyulu  In memory of Late R.VidyaSagar ",
 "PLACE":"Tenali",
-"AMOUNT":"10000",
+"AMOUNT":"₹ 10,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1064,7 +1064,7 @@ var donorsList = [{
 "SURNAME":"Vadapalli",
 "NAME":"Kanakam (on the occation of his son's thread cermony)",
 "PLACE":"Malikipuram (E.G. Dist)",
-"AMOUNT":"10000",
+"AMOUNT":"₹ 10,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1074,7 +1074,7 @@ var donorsList = [{
 "SURNAME":"Deevi",
 "NAME":"Srinivasa Krishna",
 "PLACE":"Vanukuru",
-"AMOUNT":"10000",
+"AMOUNT":"₹ 10,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1084,7 +1084,7 @@ var donorsList = [{
 "SURNAME":"",
 "NAME":"D T K Chakravarthi",
 "PLACE":"",
-"AMOUNT":"10000",
+"AMOUNT":"₹ 10,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1094,7 +1094,7 @@ var donorsList = [{
 "SURNAME":"Govardhanam",
 "NAME":"Anantharam",
 "PLACE":"Motinagar",
-"AMOUNT":"10000",
+"AMOUNT":"₹ 10,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1104,7 +1104,7 @@ var donorsList = [{
 "SURNAME":"Tamirisa",
 "NAME":"Anantha Charyulu",
 "PLACE":"Uppal",
-"AMOUNT":"10000",
+"AMOUNT":"₹ 10,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1114,7 +1114,7 @@ var donorsList = [{
 "SURNAME":"Deevi",
 "NAME":"Sobhanadri Lakshmi Narasimha Charyulu",
 "PLACE":"Alwal",
-"AMOUNT":"10000",
+"AMOUNT":"₹ 10,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1124,7 +1124,7 @@ var donorsList = [{
 "SURNAME":"Deevi",
 "NAME":"Venkata Ramana",
 "PLACE":"Vanasthalipuram",
-"AMOUNT":"10000",
+"AMOUNT":"₹ 10,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1134,7 +1134,7 @@ var donorsList = [{
 "SURNAME":"Deevi",
 "NAME":"Harsha Ayyengar",
 "PLACE":"Vanasthalipuram",
-"AMOUNT":"10000",
+"AMOUNT":"₹ 10,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1144,7 +1144,7 @@ var donorsList = [{
 "SURNAME":"Parankusam",
 "NAME":"Jwala NarasimhaCharyulu",
 "PLACE":"Moosarambagh",
-"AMOUNT":"7722",
+"AMOUNT":"₹ 7,722",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1154,7 +1154,7 @@ var donorsList = [{
 "SURNAME":"Khandavalli",
 "NAME":"V R S N Acharyulu",
 "PLACE":"Rajahmundry",
-"AMOUNT":"7000",
+"AMOUNT":"₹ 7,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1164,7 +1164,7 @@ var donorsList = [{
 "SURNAME":"Devayajanam",
 "NAME":"Lalitha Kumari",
 "PLACE":"Jillelaguda",
-"AMOUNT":"7000",
+"AMOUNT":"₹ 7,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1174,7 +1174,7 @@ var donorsList = [{
 "SURNAME":"Vedantam",
 "NAME":"Giri Prasad",
 "PLACE":"",
-"AMOUNT":"6000",
+"AMOUNT":"₹ 6,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1184,7 +1184,7 @@ var donorsList = [{
 "SURNAME":"Vedantam",
 "NAME":"Hariprasad",
 "PLACE":"A.S.Rao Nagar",
-"AMOUNT":"5116",
+"AMOUNT":"₹ 5,116",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1194,7 +1194,7 @@ var donorsList = [{
 "SURNAME":"Nalluri",
 "NAME":"Narayanacharyulu",
 "PLACE":"Moulali",
-"AMOUNT":"5116",
+"AMOUNT":"₹ 5,116",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1204,7 +1204,7 @@ var donorsList = [{
 "SURNAME":"",
 "NAME":"P.V KrishnaMurty",
 "PLACE":"Neredmet",
-"AMOUNT":"5116",
+"AMOUNT":"₹ 5,116",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1214,7 +1214,7 @@ var donorsList = [{
 "SURNAME":"Tamirisa",
 "NAME":"V G Jagannath",
 "PLACE":"Pragathi Nagar",
-"AMOUNT":"5116",
+"AMOUNT":"₹ 5,116",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1224,7 +1224,7 @@ var donorsList = [{
 "SURNAME":"Narayanam",
 "NAME":"Vivekananda",
 "PLACE":"Motinagar",
-"AMOUNT":"5116",
+"AMOUNT":"₹ 5,116",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1234,7 +1234,7 @@ var donorsList = [{
 "SURNAME":"D",
 "NAME":"Sreenivasa Charyulu",
 "PLACE":"BanjaraHills",
-"AMOUNT":"5116",
+"AMOUNT":"₹ 5,116",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1244,7 +1244,7 @@ var donorsList = [{
 "SURNAME":"Kallagunta",
 "NAME":"L R Prasad",
 "PLACE":"Vanasthalipuram",
-"AMOUNT":"5116",
+"AMOUNT":"₹ 5,116",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1254,7 +1254,7 @@ var donorsList = [{
 "SURNAME":"",
 "NAME":"R.Ranganadha Charyulu",
 "PLACE":"Tirupathi",
-"AMOUNT":"5116",
+"AMOUNT":"₹ 5,116",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1264,7 +1264,7 @@ var donorsList = [{
 "SURNAME":"",
 "NAME":"S.A.V.SatyanarayanaCharyulu",
 "PLACE":"A.S.Rao Nagar",
-"AMOUNT":"5116",
+"AMOUNT":"₹ 5,116",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1274,7 +1274,7 @@ var donorsList = [{
 "SURNAME":"Narayanam",
 "NAME":"RamaKrishna",
 "PLACE":"Danadayaal nagar",
-"AMOUNT":"5100",
+"AMOUNT":"₹ 5,100",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1284,7 +1284,7 @@ var donorsList = [{
 "SURNAME":"Bhavavarapu",
 "NAME":"SatyaPrasad",
 "PLACE":"Boduppal",
-"AMOUNT":"5004",
+"AMOUNT":"₹ 5,004",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1294,7 +1294,7 @@ var donorsList = [{
 "SURNAME":"Meduri",
 "NAME":"Kodanda Rama Deekshitulu",
 "PLACE":"Nacharam",
-"AMOUNT":"5004",
+"AMOUNT":"₹ 5,004",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1304,7 +1304,7 @@ var donorsList = [{
 "SURNAME":"",
 "NAME":"A. Satyavathi ",
 "PLACE":"Uppal Depot",
-"AMOUNT":"5001",
+"AMOUNT":"₹ 5,001",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1314,7 +1314,7 @@ var donorsList = [{
 "SURNAME":"",
 "NAME":"P.RangaaCharyulu",
 "PLACE":"Vanasthalipuram",
-"AMOUNT":"5001",
+"AMOUNT":"₹ 5,001",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1324,7 +1324,7 @@ var donorsList = [{
 "SURNAME":"Agnihotram",
 "NAME":"Sreekanth",
 "PLACE":"Borabanda",
-"AMOUNT":"5001",
+"AMOUNT":"₹ 5,001",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1334,7 +1334,7 @@ var donorsList = [{
 "SURNAME":"",
 "NAME":"P. Sai Madhuri ",
 "PLACE":"",
-"AMOUNT":"5001",
+"AMOUNT":"₹ 5,001",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1344,7 +1344,7 @@ var donorsList = [{
 "SURNAME":"Sribhashyam",
 "NAME":"R Krishnamacharyulu",
 "PLACE":"Saroornagar",
-"AMOUNT":"5000",
+"AMOUNT":"₹ 5,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1354,7 +1354,7 @@ var donorsList = [{
 "SURNAME":"Pedapudi",
 "NAME":"Venugopala Krishnamacharyulu",
 "PLACE":"Saroornagar",
-"AMOUNT":"5000",
+"AMOUNT":"₹ 5,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1364,7 +1364,7 @@ var donorsList = [{
 "SURNAME":"Srinivasula",
 "NAME":"RamachandraaCharyulu",
 "PLACE":"Doctors Colony",
-"AMOUNT":"5000",
+"AMOUNT":"₹ 5,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1374,7 +1374,7 @@ var donorsList = [{
 "SURNAME":"Vedantam",
 "NAME":"Srinivasa Ayodhyanadh",
 "PLACE":"Doctors Colony",
-"AMOUNT":"5000",
+"AMOUNT":"₹ 5,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1384,7 +1384,7 @@ var donorsList = [{
 "SURNAME":"Vadapalli",
 "NAME":"VijayaLakshmi",
 "PLACE":"Humayun Nagar",
-"AMOUNT":"5000",
+"AMOUNT":"₹ 5,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1394,7 +1394,7 @@ var donorsList = [{
 "SURNAME":"Sribhashyam",
 "NAME":"Anjaneyulu",
 "PLACE":"Vanasthalipuram",
-"AMOUNT":"5000",
+"AMOUNT":"₹ 5,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1404,7 +1404,7 @@ var donorsList = [{
 "SURNAME":"Peddinti",
 "NAME":"VenkataGopala krishnamacharyulu",
 "PLACE":"Moulali",
-"AMOUNT":"5000",
+"AMOUNT":"₹ 5,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1414,7 +1414,7 @@ var donorsList = [{
 "SURNAME":"",
 "NAME":"P.V.B SatyanarayanaCharyulu",
 "PLACE":"BHEL",
-"AMOUNT":"5000",
+"AMOUNT":"₹ 5,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1424,7 +1424,7 @@ var donorsList = [{
 "SURNAME":"Meduri",
 "NAME":"Murali",
 "PLACE":"Nagaram",
-"AMOUNT":"5000",
+"AMOUNT":"₹ 5,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1434,7 +1434,7 @@ var donorsList = [{
 "SURNAME":"Vedantam",
 "NAME":"Srinivasa Murthy",
 "PLACE":"Vijayanagar Colony",
-"AMOUNT":"5000",
+"AMOUNT":"₹ 5,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1444,7 +1444,7 @@ var donorsList = [{
 "SURNAME":"",
 "NAME":"V.RamaKrishna & Bros ,(In memory of Late V.Janardhanacharyulu )",
 "PLACE":"Kakinada",
-"AMOUNT":"5000",
+"AMOUNT":"₹ 5,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1454,7 +1454,7 @@ var donorsList = [{
 "SURNAME":"Deevi",
 "NAME":"Yogananda Narasimha Deekshithulu",
 "PLACE":"Jillelaguda",
-"AMOUNT":"5000",
+"AMOUNT":"₹ 5,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1464,7 +1464,7 @@ var donorsList = [{
 "SURNAME":"Agnihotram",
 "NAME":"Hanumanthacharyulu",
 "PLACE":"L.B.Nagar",
-"AMOUNT":"5000",
+"AMOUNT":"₹ 5,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1474,7 +1474,7 @@ var donorsList = [{
 "SURNAME":"Vedantam",
 "NAME":"Ranganadhacharyulu",
 "PLACE":"Vanasthalipuram",
-"AMOUNT":"5000",
+"AMOUNT":"₹ 5,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1484,7 +1484,7 @@ var donorsList = [{
 "SURNAME":"",
 "NAME":"S.Ranganadh",
 "PLACE":"Vanasthalipuram",
-"AMOUNT":"5000",
+"AMOUNT":"₹ 5,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1494,7 +1494,7 @@ var donorsList = [{
 "SURNAME":"",
 "NAME":"V.Venkata RangaChary",
 "PLACE":"Malkajgiri",
-"AMOUNT":"5000",
+"AMOUNT":"₹ 5,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1504,7 +1504,7 @@ var donorsList = [{
 "SURNAME":"",
 "NAME":"G.Raghunadh",
 "PLACE":"Alwal",
-"AMOUNT":"5000",
+"AMOUNT":"₹ 5,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1514,7 +1514,7 @@ var donorsList = [{
 "SURNAME":"Angara",
 "NAME":"Sairam",
 "PLACE":"Pragathi Nagar",
-"AMOUNT":"5000",
+"AMOUNT":"₹ 5,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1524,7 +1524,7 @@ var donorsList = [{
 "SURNAME":"Sudarsanam",
 "NAME":"GopalaCharyulu",
 "PLACE":"Attapur",
-"AMOUNT":"5000",
+"AMOUNT":"₹ 5,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1534,7 +1534,7 @@ var donorsList = [{
 "SURNAME":"Agnihotram",
 "NAME":"VenkataCharyulu",
 "PLACE":"Attapur",
-"AMOUNT":"5000",
+"AMOUNT":"₹ 5,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1544,7 +1544,7 @@ var donorsList = [{
 "SURNAME":"",
 "NAME":"A.V Ramana ",
 "PLACE":"A.S.Rao Nagar",
-"AMOUNT":"5000",
+"AMOUNT":"₹ 5,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1554,7 +1554,7 @@ var donorsList = [{
 "SURNAME":"Devayajanam",
 "NAME":"Sridhara Chakravarthy",
 "PLACE":"Vanasthalipuram",
-"AMOUNT":"5000",
+"AMOUNT":"₹ 5,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1564,7 +1564,7 @@ var donorsList = [{
 "SURNAME":"Narayanam",
 "NAME":"SrinivasaMurty",
 "PLACE":"Kharman Ghat",
-"AMOUNT":"5000",
+"AMOUNT":"₹ 5,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1574,7 +1574,7 @@ var donorsList = [{
 "SURNAME":"Deevi",
 "NAME":"Srinivasa Murthy",
 "PLACE":"Jillelaguda",
-"AMOUNT":"5000",
+"AMOUNT":"₹ 5,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1584,7 +1584,7 @@ var donorsList = [{
 "SURNAME":"Noori",
 "NAME":"Subhramanya Sastri",
 "PLACE":"HMT Nagar",
-"AMOUNT":"5000",
+"AMOUNT":"₹ 5,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1594,7 +1594,7 @@ var donorsList = [{
 "SURNAME":"Sribhashyam",
 "NAME":"Krishna Prasad",
 "PLACE":"Saroornagar",
-"AMOUNT":"5000",
+"AMOUNT":"₹ 5,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1604,7 +1604,7 @@ var donorsList = [{
 "SURNAME":"",
 "NAME":"S. Vijaya Sai",
 "PLACE":"",
-"AMOUNT":"5000",
+"AMOUNT":"₹ 5,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1614,7 +1614,7 @@ var donorsList = [{
 "SURNAME":"Deevi",
 "NAME":"V VaradaCharyulu",
 "PLACE":"Dilshuknagar",
-"AMOUNT":"5000",
+"AMOUNT":"₹ 5,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1624,7 +1624,7 @@ var donorsList = [{
 "SURNAME":"Sribhashyam",
 "NAME":"Vijaya Saradhi",
 "PLACE":"Saroornagar",
-"AMOUNT":"5000",
+"AMOUNT":"₹ 5,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1634,7 +1634,7 @@ var donorsList = [{
 "SURNAME":"Sribhashyam",
 "NAME":"Sriman narayana",
 "PLACE":"Saroornagar",
-"AMOUNT":"5000",
+"AMOUNT":"₹ 5,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1644,7 +1644,7 @@ var donorsList = [{
 "SURNAME":"Deevi",
 "NAME":"Srinivasulacharyulu  ",
 "PLACE":"A.S.Rao Nagar",
-"AMOUNT":"5000",
+"AMOUNT":"₹ 5,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1654,7 +1654,7 @@ var donorsList = [{
 "SURNAME":"Narayanam",
 "NAME":"Satya Deva Vara Prasad",
 "PLACE":"",
-"AMOUNT":"5000",
+"AMOUNT":"₹ 5,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1664,7 +1664,7 @@ var donorsList = [{
 "SURNAME":"Agnihotram",
 "NAME":"Peda SeshaCharyulu",
 "PLACE":"Jagannadapuram",
-"AMOUNT":"5000",
+"AMOUNT":"₹ 5,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1674,7 +1674,7 @@ var donorsList = [{
 "SURNAME":"Agnhotram ",
 "NAME":" V S R K Acharyulu in memory of his father Agnihotram PeddaSeshacharyulu",
 "PLACE":"Ghatakesar",
-"AMOUNT":"5000",
+"AMOUNT":"₹ 5,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1684,7 +1684,7 @@ var donorsList = [{
 "SURNAME":"Vadapalli",
 "NAME":"Buchibabu",
 "PLACE":"Antharvedi (East Godavari Dist)",
-"AMOUNT":"3001",
+"AMOUNT":"₹ 3,001",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1694,7 +1694,7 @@ var donorsList = [{
 "SURNAME":"",
 "NAME":"L.Sundarayya",
 "PLACE":"Mahadeva hardware",
-"AMOUNT":"3000",
+"AMOUNT":"₹ 3,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1704,7 +1704,7 @@ var donorsList = [{
 "SURNAME":"",
 "NAME":"K.Praveen ",
 "PLACE":"Kukatpally",
-"AMOUNT":"3000",
+"AMOUNT":"₹ 3,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1714,7 +1714,7 @@ var donorsList = [{
 "SURNAME":"",
 "NAME":"P.Gopalaswamy",
 "PLACE":"Attapur",
-"AMOUNT":"3000",
+"AMOUNT":"₹ 3,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1724,7 +1724,7 @@ var donorsList = [{
 "SURNAME":"Peddinti",
 "NAME":"Ananthacharyulu in memory of Bhakaramma",
 "PLACE":"TKR Nagar",
-"AMOUNT":"3000",
+"AMOUNT":"₹ 3,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1734,7 +1734,7 @@ var donorsList = [{
 "SURNAME":"Deevi",
 "NAME":"PadmanabhaCharyulu",
 "PLACE":"Danadayaal nagar",
-"AMOUNT":"2500",
+"AMOUNT":"₹ 2,500",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1744,7 +1744,7 @@ var donorsList = [{
 "SURNAME":"Agnihotram",
 "NAME":"UmashankaraCharyulu",
 "PLACE":"charminar",
-"AMOUNT":"2016",
+"AMOUNT":"₹ 2,016",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1754,7 +1754,7 @@ var donorsList = [{
 "SURNAME":"",
 "NAME":"P.Satyanarayana",
 "PLACE":"Nandhyala",
-"AMOUNT":"2000",
+"AMOUNT":"₹ 2,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1764,7 +1764,7 @@ var donorsList = [{
 "SURNAME":"Rompicherla",
 "NAME":"Rama Krishnamacharyulu",
 "PLACE":"Vanasthalipuram",
-"AMOUNT":"2000",
+"AMOUNT":"₹ 2,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1774,7 +1774,7 @@ var donorsList = [{
 "SURNAME":"Revuri",
 "NAME":"GopalaCharyulu",
 "PLACE":"Moosarambagh",
-"AMOUNT":"2000",
+"AMOUNT":"₹ 2,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1784,7 +1784,7 @@ var donorsList = [{
 "SURNAME":"",
 "NAME":"G.A.P  Prasad",
 "PLACE":"Alwal",
-"AMOUNT":"2000",
+"AMOUNT":"₹ 2,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1794,7 +1794,7 @@ var donorsList = [{
 "SURNAME":"",
 "NAME":"G.M Sarath Kumar",
 "PLACE":"Yapral",
-"AMOUNT":"2000",
+"AMOUNT":"₹ 2,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1804,7 +1804,7 @@ var donorsList = [{
 "SURNAME":"Agnihotram",
 "NAME":"Laxmana Singara Charyulu",
 "PLACE":"Panjagutta",
-"AMOUNT":"2000",
+"AMOUNT":"₹ 2,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1814,7 +1814,7 @@ var donorsList = [{
 "SURNAME":"",
 "NAME":"K.Murali Krishna",
 "PLACE":"Hyderabad",
-"AMOUNT":"1120",
+"AMOUNT":"₹ 1,120",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1824,7 +1824,7 @@ var donorsList = [{
 "SURNAME":"Brindavanam",
 "NAME":"Sri Ramachakravarty",
 "PLACE":"HighCourt Colony",
-"AMOUNT":"1116",
+"AMOUNT":"₹ 1,116",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1834,7 +1834,7 @@ var donorsList = [{
 "SURNAME":"Deevi",
 "NAME":"Vijaya Saradhi",
 "PLACE":"Moulali",
-"AMOUNT":"1116",
+"AMOUNT":"₹ 1,116",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1844,7 +1844,7 @@ var donorsList = [{
 "SURNAME":"Khandavalli",
 "NAME":"Mangacharyulu",
 "PLACE":"Madduru",
-"AMOUNT":"1116",
+"AMOUNT":"₹ 1,116",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1854,7 +1854,7 @@ var donorsList = [{
 "SURNAME":"Khandavalli",
 "NAME":"Chaitanya",
 "PLACE":"Moulali",
-"AMOUNT":"1116",
+"AMOUNT":"₹ 1,116",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1864,7 +1864,7 @@ var donorsList = [{
 "SURNAME":"Peddinti",
 "NAME":"Sarath Chandra ",
 "PLACE":"A.S.Rao Nagar",
-"AMOUNT":"1116",
+"AMOUNT":"₹ 1,116",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1874,7 +1874,7 @@ var donorsList = [{
 "SURNAME":"Deevi",
 "NAME":"Sridhar",
 "PLACE":"A.S.Rao Nagar",
-"AMOUNT":"1016",
+"AMOUNT":"₹ 1,016",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1884,7 +1884,7 @@ var donorsList = [{
 "SURNAME":"Pulipaka",
 "NAME":"MuraliKrishna",
 "PLACE":"A.S.Rao Nagar",
-"AMOUNT":"1011",
+"AMOUNT":"₹ 1,011",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1894,7 +1894,7 @@ var donorsList = [{
 "SURNAME":"Vadapalli",
 "NAME":"Vijaya Kiran",
 "PLACE":"Vijayapuri Colony",
-"AMOUNT":"1001",
+"AMOUNT":"₹ 1,001",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1904,7 +1904,7 @@ var donorsList = [{
 "SURNAME":"",
 "NAME":"K.Ramesh ",
 "PLACE":"Kukatpally",
-"AMOUNT":"1001",
+"AMOUNT":"₹ 1,001",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1914,7 +1914,7 @@ var donorsList = [{
 "SURNAME":"",
 "NAME":"Shakthirai Mitra",
 "PLACE":"Kukatpally",
-"AMOUNT":"1001",
+"AMOUNT":"₹ 1,001",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1924,7 +1924,7 @@ var donorsList = [{
 "SURNAME":"",
 "NAME":"N.Lalitha",
 "PLACE":"Kukatpally",
-"AMOUNT":"1001",
+"AMOUNT":"₹ 1,001",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1934,7 +1934,7 @@ var donorsList = [{
 "SURNAME":"Govardhanam",
 "NAME":"Trinadh Ramesh ",
 "PLACE":"Attapur",
-"AMOUNT":"1000",
+"AMOUNT":"₹ 1,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1944,7 +1944,7 @@ var donorsList = [{
 "SURNAME":"",
 "NAME":"R.Jagannadha Krishnamacharyulu",
 "PLACE":"Vanasthalipuram",
-"AMOUNT":"1000",
+"AMOUNT":"₹ 1,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1954,7 +1954,7 @@ var donorsList = [{
 "SURNAME":"Peddinti",
 "NAME":"Venkata Hygriva Charyulu",
 "PLACE":"Hyderabad",
-"AMOUNT":"1000",
+"AMOUNT":"₹ 1,000",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1964,7 +1964,7 @@ var donorsList = [{
 "SURNAME":"",
 "NAME":"P.Shobanadri",
 "PLACE":"Hyderabad",
-"AMOUNT":"520",
+"AMOUNT":"₹ 520",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1974,7 +1974,7 @@ var donorsList = [{
 "SURNAME":"",
 "NAME":"G.Naaga Venkata Pavan Kumar",
 "PLACE":"Kamala Nagar",
-"AMOUNT":"501",
+"AMOUNT":"₹ 501",
 "DATE":"",
 "RECEIPT":""
 }
@@ -1984,7 +1984,7 @@ var donorsList = [{
 "SURNAME":"",
 "NAME":"Lakshmi Narasimha Charyulu",
 "PLACE":"Hyderabad",
-"AMOUNT":"120",
+"AMOUNT":"₹ 120",
 "DATE":"",
 "RECEIPT":""
 }
